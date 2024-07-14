@@ -1,17 +1,17 @@
-(B) Learn how to use Vim @chromebook due:2024-08-31
+(E) Learn how to use Vim @chromebook due:2024-08-31
 (Z) task +project @context due:YYYY-MM-DD
 (A) Unit 4: Repeatable Tasks +GetProgramming @chromebook due:2024-07-13 +Python
-(A) Unit 5: Organizing Your Code Into Repeatable Blocks +GetProgramming @chromebook due:2024-07-15 +Python
-(A) Unit 6: Working with Mutable Data Types +GetProgramming @chromebook due:2024-07-17 +Python
-(A) Unit 7: Making Your Own Object Types +GetProgramming @chromebook due:2024-07-19 +Python
+(B) Unit 5: Organizing Your Code Into Repeatable Blocks +GetProgramming @chromebook due:2024-07-15 +Python
+(C) Unit 6: Working with Mutable Data Types +GetProgramming @chromebook due:2024-07-17 +Python
+(C) Unit 7: Making Your Own Object Types +GetProgramming @chromebook due:2024-07-19 +Python
 (Z) lsp to list priorities
 (Z) lsc to list contexts
 (Z) del NUMBER to delete a task
 (Z) do NUMBER to complete a task
 (Z) lsprj lists by projects
-(A) Unit 8: Using Libraries +GetProgramming @chromebook due 2024-07-21 +Python
-return library books +GetProgramming +PythonProjects @library due:2024-07-26
-Programming Exercises +Python @chromebook due:2024-08-31
+(C) Unit 8: Using Libraries +GetProgramming @chromebook due 2024-07-21 +Python
+(D) return library books +GetProgramming +PythonProjects @library due:2024-07-26
+(F) Programming Exercises +Python @chromebook due:2024-08-31
 buy Dove soap @errands @AumannStudios +felting
 felt goat soap +felting @AumannStudios
 make a sheet of felt +felting @AumannStudios
@@ -19,5 +19,37 @@ knit blue-brown-tan socks +knitting @AumannStudios
 felt Ivory soap +felting @AumannStudios
 edit D scale video +YouTube @UpstateSuzuki
 review Roadmaps.sh tasks +DevOps @internet +Python +Linux
-(A) get rid of desk in eating room +cleanhouse @home due:2024-07-26
-(B) clean off work table +cleanhouse @home due:2024-07-26
+(D) get rid of desk in eating room +cleanhouse @home due:2024-07-26
+(D) clean off work table +cleanhouse @home due:2024-07-26
+(B) Ram viola lesson 1600 +lessons @UpstateSuzuki due:2024-07-15
+(C) Judah viola lesson 1400 +lessons @UpstateSuzuki due:2024-07-17
+(C) text Shannon re-Annabelle +lessons @UpstateSuzuki @phone due:2024-07-20
+(C) Ruby guitar lesson 1400 +lessons @UpstateSuzuki due:2024-07-18
+(C) Luke and Eirene violin lesson 1430 +lessons @UpstateSuzuki due:2024-07-18
+(C) Beatrix and LucyJean violin lesson 1600 +lessons @UpstateSuzuki due:2024-07-18
+(C) Noah violin lesson 1000 +lessons @UpstateSuzuki due:2024-07-20
+(C) Tuesday plasma donation 0800 due:2024-07-16 +money
+(C) Friday plasma donation 0845 due:2024-07-19 +money
+(C) Wednesday with Steven 1630 +money due:2024-07-17
+(C) Thursday with Steven 1630 +money due:2024-07-18
+(A) schedule plasma donations +money due:2024-07-14
+(C) work at Sharons +money due:2024-07-16
+(C) work at Sharons +money due:2024-07-19
+(B) complete work application for Dyan +money due:2024-07-15
+(A) A list due today
+(B) B list due tomorrow
+(C) -C list due in next 7 days
+(D) -D list due in next 14 days
+(E) -E list due in next 30 days
+(A) make soap hammock for shower +crochet @AumannStudios due:2024-07-14
+-F list due in next 60 days
+(D) buy food for party +suzis-party @errands due:2024-07-26
+(D) buy decorations for party +suzis-party @errands due:2024-07-26
+(D) buy party favors for party +suzis-party @errands due:2024-07-26
+(A) daily laundry +cleanhouse @home
+(A) daily dishes +cleanhouse @home
+(A) scoop catboxes +cleanhouse @home
+(A) journal in notebook @personal
+(A) moms nails @errands +family due:2024-07-14
+(A) church gig +money @UpstateSuzuki due:2024-07-14
+Family Meeting 2000 +family @home due:2024-07-14

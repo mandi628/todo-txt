@@ -118,3 +118,4 @@ complete -F _todo todo.sh
 #    _todo "$@"
 #}
 #complete -F _todo2 todo2
+x 2024-07-14 Aldi for dinner groceries @errands due:2024-07-14
