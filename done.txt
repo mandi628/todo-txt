@@ -124,3 +124,5 @@ x 2024-07-15 Family Meeting 2000 +family @home due:2024-07-14
 x 2024-07-15 make soap hammock for shower +crochet @AumannStudios due:2024-07-14
 x 2024-07-15 moms nails @errands +family due:2024-07-14
 x 2024-07-15 take trash to street +cleanhouse @home due:2024-07-14
+x 2024-07-15 get toilet paper +cleanhouse @home due:2024-07-15 @Tess
+x 2024-07-15 Tess dentist 1050 +family @kids due:2024-07-15

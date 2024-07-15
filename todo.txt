@@ -49,12 +49,10 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 (A) daily dishes +cleanhouse @home due:2024-07-15
 (A) scoop catboxes +cleanhouse @home due:2024-07-15
 (A) journal in notebook @personal due:2024-07-15
-
 (D) moms nails @errands +family due:2024-07-28
 (C) Suzi and Bumpa cake party +family @errands due:2024-07-21
 (A) practice guitar +lessons @UpstateSuzuki due:2024-07-15
 (C) have Tess confirm guests +suzis-party @Tess due:2024-07-20
-
 (C) Family Meeting 2000 +family @home due:2024-07-21
 (C) take trash to street +cleanhouse @home due:2024-07-21
 (A) clean studio +cleanhouse @home due:2024-07-15
@@ -69,4 +67,32 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 (A) deposit church money +money @UpstateSuzuki due:2024-07-15
 (E) lunch with Jen 1130 +friends @errands due:2024-08-06
 (D) brunch with Maren and Jenny +friends @errands due:2024-07-27
-
+(A) Micky work 9-5 +family @kids due:2024-07-15
+(A) Suzi work Sallys 945-3 +family +work @kids due:2024-07-15
+(A) Tess dinner Taco Mac Salad +family +menu @kids due:2024-07-15
+(A) pay car insurance 232 +bills @home due:2024-07-15
+(B) Micky work 11-7 +family +work @kids due:2024-07-16
+(B) Suzi work CB-S 930-4 +family +work @kids due:2024-07-16
+(B) Tess work CocoBon 10-4 +family +work @kids due:2024-07-16
+(B) Suzi dinner Honey Soy Salmon +family +menu @kids due:2024-07-16
+(C) Micky work 11-7 +family +work @kids due:2024-07-17
+(C) Suzi work CB-A 930-530 +work +family @kids due:2024-07-17
+(C) Tess work PJ 4-9 +family +work @kids due:2024-07-17
+(C) Ash dinner Stuffed Shells +family +menu @kids due:2024-07-17
+(C) Micky work 11-7 +family +work @kids due:2024-07-18
+(C) Micky and Ash date night +family @kids due:2024-07-18
+(C) Suzi brunch date +family @kids due:2024-07-18
+(C) Suzi hang with Isabella +family @kids due:2024-07-18
+(C) Suzi and Tess YOYO dinner +family +menu @kids due:2024-07-18
+(C) Micky work at home 11-3 +family +work @kids due:2024-07-19
+(C) Suzi work Sollys 930-130 +family +work @kids due:2024-07-19
+(C) Tess work CocoBon 11-4 +family +work @kids due:2024-07-19
+(C) Micky dinner Grilled Cheese and soup +family +menu @kids due:2024-07-19
+(C) Suzi work CB-S 130-800 +family +work @kids due:2024-07-20
+(C) Tess work CocoBon 11-4 +family +work @kids due:2024-07-20
+(C) Tess work PJ 4-9 +family +work @kids due:2024-07-20
+(C) Dinner - Nachoes +family +menu @kids due:2024-07-20
+(C) Tess work PJ 4-9 +family +work @kids due:2024-07-21
+(C) Dinner - Personal Pizzas +family +menu @kids due:2024-07-21
+(C) text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
+(C) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
