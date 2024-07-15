@@ -49,11 +49,9 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 (A) journal in notebook @personal due:2024-07-15 @pm-rtn
 (D) moms nails @errands +family due:2024-07-28
 (C) Suzi and Bumpa cake party +family @errands due:2024-07-21
-(A) practice guitar +lessons @UpstateSuzuki due:2024-07-15
 (C) have Tess confirm guests +suzis-party @Tess due:2024-07-20
 (C) Family Meeting 2000 +family @home due:2024-07-21
 (C) take trash to street +cleanhouse @home due:2024-07-21
-(A) clean studio +cleanhouse @home due:2024-07-15 @Monday
 (B) clean kitchen and eating room +cleanhouse @home due:2024-07-16
 (C) clean great room +cleanhouse @home due:2024-07-17
 (C) clean bathroom and hallway +cleanhouse @home due:2024-07-18
@@ -106,3 +104,5 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 (C) put away clean laundry +cleanhouse @home @pm-rtn @Saturday due:2024-07-20
 (C) put away clean laundry +cleanhouse @home @pm-rtn @Monday due:2024-07-22
 (C) start washing laundry +cleanhouse @home @am-rtn @Monday due:2024-07-22
+Tess dentist 1110 +family @Tess due:2025-01-07
+(C) clean studio +cleanhouse @home @Monday due:2023-07-22

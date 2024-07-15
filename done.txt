@@ -132,3 +132,5 @@ x 2024-07-15 schedule plasma donations +money due:2024-07-14
 x 2024-07-15 Suzi work Sallys 945-3 +family +work @kids due:2024-07-15
 x 2024-07-15 Micky work 9-5 +family @kids due:2024-07-15
 x 2024-07-15 daily dishes +cleanhouse @home due:2024-07-15
+x 2024-07-15 clean studio +cleanhouse @home due:2024-07-15 @Monday
+x 2024-07-15 practice guitar +lessons @UpstateSuzuki due:2024-07-15
