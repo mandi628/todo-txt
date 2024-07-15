@@ -32,10 +32,9 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 (C) Friday plasma donation 0845 due:2024-07-19 +money
 (C) Wednesday with Steven 1630 +money due:2024-07-17
 (C) Thursday with Steven 1630 +money due:2024-07-18
-(A) schedule plasma donations +money due:2024-07-14
 (B) work at Sharons +money due:2024-07-16
 (C) work at Sharons +money due:2024-07-19
-(A) complete work application for Dyan +money due:2024-07-15
+(A) complete work application for Dyan +money due:2024-07-15 -waiting for Dyan
 (A) A list due today
 (B) B list due tomorrow
 (C) -C list due in next 7 days
@@ -45,31 +44,25 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 (D) buy food for party +suzis-party @errands due:2024-07-26
 (D) buy decorations for party +suzis-party @errands due:2024-07-26
 (D) buy party favors for party +suzis-party @errands due:2024-07-26
-(A) daily laundry +cleanhouse @home due:2024-07-15
-(A) daily dishes +cleanhouse @home due:2024-07-15
-(A) scoop catboxes +cleanhouse @home due:2024-07-15
-(A) journal in notebook @personal due:2024-07-15
+(A) put away clean laundry +cleanhouse @home @pm-rtn due:2024-07-15
+(A) scoop catboxes +cleanhouse @home due:2024-07-15 @pm-rtn
+(A) journal in notebook @personal due:2024-07-15 @pm-rtn
 (D) moms nails @errands +family due:2024-07-28
 (C) Suzi and Bumpa cake party +family @errands due:2024-07-21
 (A) practice guitar +lessons @UpstateSuzuki due:2024-07-15
 (C) have Tess confirm guests +suzis-party @Tess due:2024-07-20
 (C) Family Meeting 2000 +family @home due:2024-07-21
 (C) take trash to street +cleanhouse @home due:2024-07-21
-(A) clean studio +cleanhouse @home due:2024-07-15
+(A) clean studio +cleanhouse @home due:2024-07-15 @Monday
 (B) clean kitchen and eating room +cleanhouse @home due:2024-07-16
 (C) clean great room +cleanhouse @home due:2024-07-17
 (C) clean bathroom and hallway +cleanhouse @home due:2024-07-18
 (C) clean my bedroom +cleanhouse @home due:2024-07-19
 (C) cut grass in front yard +cleanhouse @home due:2024-07-20
 (C) clean laundry room +cleanhouse @home due:2024-07-20
-(A) text Alec and Lena about party Sunday +family @phone due:2024-07-15
 (C) Christ Reformed Church gig 1000 +money @UpstateSuzuki due:2024-07-21
-(A) deposit church money +money @UpstateSuzuki due:2024-07-15
 (E) lunch with Jen 1130 +friends @errands due:2024-08-06
 (D) brunch with Maren and Jenny +friends @errands due:2024-07-27
-(A) Micky work 9-5 +family @kids due:2024-07-15
-x 2024-07-15 Tess dentist 1050 +family @kids due:2024-07-15
-(A) Suzi work Sallys 945-3 +family +work @kids due:2024-07-15
 (A) Tess dinner Taco Mac Salad +family +menu @kids due:2024-07-15
 (A) pay car insurance 232 +bills @home due:2024-07-15
 (B) Micky work 11-7 +family +work @kids due:2024-07-16
@@ -97,3 +90,19 @@ x 2024-07-15 Tess dentist 1050 +family @kids due:2024-07-15
 (C) Dinner - Personal Pizzas +family +menu @kids due:2024-07-21
 (C) text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
 (C) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
+(F) Suzi back to school +family @Suzi @kids due:2024-08-23
+(F) Tess back to school +family @Tess @kids due:2024-08-24
+(F) get new tires for Masha +Masha @errands due:2024-08-24
+(C) Verizon payment out due:2024-07-20
+(C) schedule plasma donations +money due:2024-07-21 @phone
+(D) Tuesday plasma donation 0800 +money due:2024-07-23
+(D) Friday plasma donation 0845 +money due:2024-07-26
+(A) check Westlake account for last payment +money @Micky due:2024-07-15
+(B) put away clean dishes +cleanhouse @home due:2024-07-16 @am-rtn
+(B) wash daily dishes +cleanhouse @home due:2024-07-16 @pm-rtn
+(C) start washing laundry +cleanhouse @home @am-rtn due:2024-07-19 @Friday
+(C) start washing laundry +cleanhouse @home @am-rtn @Saturday due:2024-07-20
+(C) put away clean laundry +cleanhouse @home @pm-rtn @Friday due:2024-07-19
+(C) put away clean laundry +cleanhouse @home @pm-rtn @Saturday due:2024-07-20
+(C) put away clean laundry +cleanhouse @home @pm-rtn @Monday due:2024-07-22
+start washing laundry +cleanhouse @home @am-rtn @Monday due:2024-07-22

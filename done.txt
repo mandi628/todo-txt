@@ -126,3 +126,9 @@ x 2024-07-15 moms nails @errands +family due:2024-07-14
 x 2024-07-15 take trash to street +cleanhouse @home due:2024-07-14
 x 2024-07-15 get toilet paper +cleanhouse @home due:2024-07-15 @Tess
 x 2024-07-15 Tess dentist 1050 +family @kids due:2024-07-15
+x 2024-07-15 deposit church money +money @UpstateSuzuki due:2024-07-15
+x 2024-07-15 text Alec and Lena about party Sunday +family @phone due:2024-07-15
+x 2024-07-15 schedule plasma donations +money due:2024-07-14
+x 2024-07-15 Suzi work Sallys 945-3 +family +work @kids due:2024-07-15
+x 2024-07-15 Micky work 9-5 +family @kids due:2024-07-15
+x 2024-07-15 daily dishes +cleanhouse @home due:2024-07-15
