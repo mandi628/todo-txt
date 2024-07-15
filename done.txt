@@ -119,3 +119,8 @@ complete -F _todo todo.sh
 #}
 #complete -F _todo2 todo2
 x 2024-07-14 Aldi for dinner groceries @errands due:2024-07-14
+x 2024-07-14 church gig +money @UpstateSuzuki due:2024-07-14
+x 2024-07-15 Family Meeting 2000 +family @home due:2024-07-14
+x 2024-07-15 make soap hammock for shower +crochet @AumannStudios due:2024-07-14
+x 2024-07-15 moms nails @errands +family due:2024-07-14
+x 2024-07-15 take trash to street +cleanhouse @home due:2024-07-14
