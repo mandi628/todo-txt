@@ -1,29 +1,6 @@
 (F) Learn how to use Vim @chromebook due:2024-08-31
-(A) Unit 5: Organizing Your Code +Python @chromebook due:2024-07-15
-(B) Unit 6: Working with Mutable Data Types +Python @chromebook due:2024-07-17
-(C) Unit 7: Making Your Own Object Types +Python @chromebook due:2024-07-19
-(C) Unit 8: Uisng Libraries +Python @chromebook due:2024-07-21
 (D) return library books @errands due:2024-07-26
-buy Dove soap @errands @AumannStudios +felting
-felt goat soap +felting @AumannStudios
-make a sheet of felt +felting @AumannStudios
-felt Ivory soap +felting @AumannStudios
-edit D scale video +YouTube @UpstateSuzuki
-(D) get rid of desk in eating room +cleanhouse @home due:2024-07-26
 (D) clean off work table +cleanhouse @home due:2024-07-26
-(B) Judah viola lesson 1400 +lessons @UpstateSuzuki due:2024-07-17
-(C) text Shannon re-Annabelle +lessons @UpstateSuzuki @phone due:2024-07-20
-(C) Ruby guitar lesson 1400 +lessons @UpstateSuzuki due:2024-07-18
-(C) Luke and Eirene violin lesson 1430 +lessons @UpstateSuzuki due:2024-07-18
-(C) Beatrix and LucyJean violin lesson 1600 +lessons @UpstateSuzuki due:2024-07-18
-(C) Noah violin lesson 1000 +lessons @UpstateSuzuki due:2024-07-20
-(A) Tuesday plasma donation 0800 due:2024-07-16 +money
-(C) Friday plasma donation 0845 due:2024-07-19 +money
-(B) Wednesday with Steven 1630 +money due:2024-07-17
-(C) Thursday with Steven 1630 +money due:2024-07-18
-(A) work at Sharons +money due:2024-07-16
-(C) work at Sharons +money due:2024-07-19
-(A) complete work application for Dyan +money due:2024-07-16 -waiting for Dyan
 (A) A list due today
 (B) -B list due tomorrow
 (C) -C list due in next 7 days
@@ -33,70 +10,26 @@ edit D scale video +YouTube @UpstateSuzuki
 (D) buy food for party +suzis-party @errands due:2024-07-26
 (D) buy decorations for party +suzis-party @errands due:2024-07-26
 (D) buy party favors for party +suzis-party @errands due:2024-07-26
-(A) put away clean laundry +cleanhouse @home @pm-rtn due:2024-07-15
 (D) moms nails @errands +family due:2024-07-28
-(C) Suzi and Bumpa cake party +family @errands due:2024-07-21
-(C) Family Meeting 2000 +family @home due:2024-07-21
-(C) take trash to street +cleanhouse @home due:2024-07-21
-(A) clean kitchen and eating room +cleanhouse @home due:2024-07-16
 (B) clean great room +cleanhouse @home due:2024-07-17 @Wednesday
 (C) clean bathroom and hallway +cleanhouse @home due:2024-07-18
 (C) clean my bedroom +cleanhouse @home due:2024-07-19
 (C) cut grass in front yard +cleanhouse @home due:2024-07-20
 (C) clean laundry room +cleanhouse @home due:2024-07-20
-(C) Christ Reformed Church gig 1000 +money @UpstateSuzuki due:2024-07-21
 (E) lunch with Jen 1130 +friends @errands due:2024-08-06
 (D) brunch with Maren and Jenny +friends @errands due:2024-07-27
 (A) pay car insurance 232 +bills +money @home due:2024-07-16
-(A) Micky work 11-7 +family +work @kids due:2024-07-16
-(A) Suzi work CB-S 930-4 +family +work @kids due:2024-07-16
-(A) Tess work CocoBon 10-4 +family +work @kids due:2024-07-16
-(A) Suzi dinner Honey Soy Salmon +family +menu @kids due:2024-07-16
-(B) Micky work 11-7 +family +work @kids due:2024-07-17
-(B) Suzi work CB-A 930-530 +work +family @kids due:2024-07-17
-(B) Tess work PJ 4-9 +family +work @kids due:2024-07-17
-(B) Ash dinner Stuffed Shells +family +menu @kids due:2024-07-17
-(C) Micky work 11-7 +family +work @kids due:2024-07-18
-(C) Micky and Ash date night +family @kids due:2024-07-18
-(C) Suzi brunch date +family @kids due:2024-07-18
-(C) Suzi hang with Isabella +family @kids due:2024-07-18
-(C) Suzi and Tess YOYO dinner +family +menu @kids due:2024-07-18
-(C) Micky work at home 11-3 +family +work @kids due:2024-07-19
-(C) Suzi work Sollys 930-130 +family +work @kids due:2024-07-19
-(C) Tess work CocoBon 11-4 +family +work @kids due:2024-07-19
-(C) Micky dinner Grilled Cheese and soup +family +menu @kids due:2024-07-19
-(C) Suzi work CB-S 130-800 +family +work @kids due:2024-07-20
-(C) Tess work CocoBon 11-4 +family +work @kids due:2024-07-20
-(C) Tess work PJ 4-9 +family +work @kids due:2024-07-20
-(C) Dinner - Nachoes +family +menu @kids due:2024-07-20
-(C) Tess work PJ 4-9 +family +work @kids due:2024-07-21
-(C) Dinner - Personal Pizzas +family +menu @kids due:2024-07-21
 (C) text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
 (C) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
 (F) Suzi back to school +family @Suzi @kids due:2024-08-23
 (F) Tess back to school +family @Tess @kids due:2024-08-24
 (F) get new tires for Masha +Masha @errands due:2024-08-24
-(C) Verizon payment out due:2024-07-20
-(C) schedule plasma donations +money due:2024-07-21 @phone
-(C) Tuesday plasma donation 0800 +money due:2024-07-23
 (D) Friday plasma donation 0845 +money due:2024-07-26
 (A) put away clean dishes +cleanhouse @home due:2024-07-16 @am-rtn
-(A) wash daily dishes +cleanhouse @home due:2024-07-16 @pm-rtn
-(C) start washing laundry +cleanhouse @home @am-rtn due:2024-07-19 @Friday
-(C) start washing laundry +cleanhouse @home @am-rtn @Saturday due:2024-07-20
-(C) put away clean laundry +cleanhouse @home @pm-rtn @Friday due:2024-07-19
-(C) put away clean laundry +cleanhouse @home @pm-rtn @Saturday due:2024-07-20
-(C) put away clean laundry +cleanhouse @home @pm-rtn @Monday due:2024-07-22
-(C) start washing laundry +cleanhouse @home @am-rtn @Monday due:2024-07-22
 (G) Tess dentist 1110 +family @Tess due:2025-01-07
 (C) clean studio +cleanhouse @home @Monday due:2023-07-22
-(C) text Sethu to schedule Rams lesson +money @UpstateSuzuki @phone due:2024-07-18
 Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
-(A) move money from Grifols to WF +money @errands due:2024-07-16
 (D) follow up with maybes +suzis-party @Tess due:2024-07-22
 (E) update insurance info on Westlake +money @internet due:2024-08-09
 (A) journal in notebook @personal @pm-rtn due:2024-07-16
-(A) scoop catboxes +cleanhouse @home @pm-rtn due:2024-07-16
-(C) find Skyes flash drive +money @UpstateSuzuki due:2024-07-18
 (G) -G list more than 60 days
-knit blue-brown-tan socks +knitting @AumannStudios

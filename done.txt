@@ -145,3 +145,56 @@ x 2024-07-15 Suzi spray wasps +cleanhouse @home @Suzi due:2024-07-15
 
 x 2024-07-15 journal in notebook @personal due:2024-07-15 @pm-rtn
 x 2024-07-16 knit blue-brown-tan socks +knitting @AumannStudios
+x 2024-07-23 Verizon payment out due:2024-07-20
+x 2024-07-23 get rid of desk in eating room +cleanhouse @home due:2024-07-26
+x 2024-07-23 Tuesday plasma donation 0800 +money due:2024-07-23
+x 2024-07-23 text Shannon re-Annabelle +lessons @UpstateSuzuki @phone due:2024-07-20
+x 2024-07-23 text Sethu to schedule Rams lesson +money @UpstateSuzuki @phone due:2024-07-18
+x 2024-07-23 Tess work PJ 4-9 +family +work @kids due:2024-07-21
+x 2024-07-23 Tess work PJ 4-9 +family +work @kids due:2024-07-20
+x 2024-07-23 Tess work CocoBon 11-4 +family +work @kids due:2024-07-20
+x 2024-07-23 Tess work CocoBon 11-4 +family +work @kids due:2024-07-19
+x 2024-07-23 take trash to street +cleanhouse @home due:2024-07-21
+x 2024-07-23 Suzi work Sollys 930-130 +family +work @kids due:2024-07-19
+x 2024-07-23 Suzi work CB-S 130-800 +family +work @kids due:2024-07-20
+x 2024-07-23 Suzi hang with Isabella +family @kids due:2024-07-18
+x 2024-07-23 Suzi brunch date +family @kids due:2024-07-18
+x 2024-07-23 Suzi and Tess YOYO dinner +family +menu @kids due:2024-07-18
+x 2024-07-23 Suzi and Bumpa cake party +family @errands due:2024-07-21
+x 2024-07-23 start washing laundry +cleanhouse @home @am-rtn due:2024-07-19 @Friday
+x 2024-07-23 start washing laundry +cleanhouse @home @am-rtn @Saturday due:2024-07-20
+x 2024-07-23 start washing laundry +cleanhouse @home @am-rtn @Monday due:2024-07-22
+x 2024-07-23 schedule plasma donations +money due:2024-07-21 @phone
+x 2024-07-23 Ruby guitar lesson 1400 +lessons @UpstateSuzuki due:2024-07-18
+x 2024-07-23 put away clean laundry +cleanhouse @home @pm-rtn @Saturday due:2024-07-20
+x 2024-07-23 put away clean laundry +cleanhouse @home @pm-rtn @Monday due:2024-07-22
+x 2024-07-23 put away clean laundry +cleanhouse @home @pm-rtn @Friday due:2024-07-19
+x 2024-07-23 Noah violin lesson 1000 +lessons @UpstateSuzuki due:2024-07-20
+x 2024-07-23 Micky work at home 11-3 +family +work @kids due:2024-07-19
+x 2024-07-23 Micky work 11-7 +family +work @kids due:2024-07-18
+x 2024-07-23 Micky dinner Grilled Cheese and soup +family +menu @kids due:2024-07-19
+x 2024-07-23 Micky and Ash date night +family @kids due:2024-07-18
+x 2024-07-23 Luke and Eirene violin lesson 1430 +lessons @UpstateSuzuki due:2024-07-18
+x 2024-07-23 Friday plasma donation 0845 due:2024-07-19 +money
+x 2024-07-23 find Skyes flash drive +money @UpstateSuzuki due:2024-07-18
+x 2024-07-23 Family Meeting 2000 +family @home due:2024-07-21
+x 2024-07-23 Dinner - Personal Pizzas +family +menu @kids due:2024-07-21
+x 2024-07-23 Dinner - Nachoes +family +menu @kids due:2024-07-20
+x 2024-07-23 Christ Reformed Church gig 1000 +money @UpstateSuzuki due:2024-07-21
+x 2024-07-23 Beatrix and LucyJean violin lesson 1600 +lessons @UpstateSuzuki due:2024-07-18
+x 2024-07-23 Tess work PJ 4-9 +family +work @kids due:2024-07-17
+x 2024-07-23 Suzi work CB-A 930-530 +work +family @kids due:2024-07-17
+x 2024-07-23 Micky work 11-7 +family +work @kids due:2024-07-17
+x 2024-07-23 Judah viola lesson 1400 +lessons @UpstateSuzuki due:2024-07-17
+x 2024-07-23 Ash dinner Stuffed Shells +family +menu @kids due:2024-07-17
+x 2024-07-23 wash daily dishes +cleanhouse @home due:2024-07-16 @pm-rtn
+x 2024-07-23 Unit 5: Organizing Your Code +Python @chromebook due:2024-07-15
+x 2024-07-23 Tuesday plasma donation 0800 due:2024-07-16 +money
+x 2024-07-23 Tess work CocoBon 10-4 +family +work @kids due:2024-07-16
+x 2024-07-23 Suzi work CB-S 930-4 +family +work @kids due:2024-07-16
+x 2024-07-23 Suzi dinner Honey Soy Salmon +family +menu @kids due:2024-07-16
+x 2024-07-23 scoop catboxes +cleanhouse @home @pm-rtn due:2024-07-16
+x 2024-07-23 put away clean laundry +cleanhouse @home @pm-rtn due:2024-07-15
+x 2024-07-23 move money from Grifols to WF +money @errands due:2024-07-16
+x 2024-07-23 Micky work 11-7 +family +work @kids due:2024-07-16
+x 2024-07-23 clean kitchen and eating room +cleanhouse @home due:2024-07-16
