@@ -198,3 +198,4 @@ x 2024-07-23 put away clean laundry +cleanhouse @home @pm-rtn due:2024-07-15
 x 2024-07-23 move money from Grifols to WF +money @errands due:2024-07-16
 x 2024-07-23 Micky work 11-7 +family +work @kids due:2024-07-16
 x 2024-07-23 clean kitchen and eating room +cleanhouse @home due:2024-07-16
+x 2024-07-30 put away clean dishes +cleanhouse @home due:2024-07-16 @am-rtn

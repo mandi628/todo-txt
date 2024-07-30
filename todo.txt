@@ -12,24 +12,27 @@
 (D) buy party favors for party +suzis-party @errands due:2024-07-26
 (D) moms nails @errands +family due:2024-07-28
 (B) clean great room +cleanhouse @home due:2024-07-17 @Wednesday
-(C) clean bathroom and hallway +cleanhouse @home due:2024-07-18
-(C) clean my bedroom +cleanhouse @home due:2024-07-19
-(C) cut grass in front yard +cleanhouse @home due:2024-07-20
-(C) clean laundry room +cleanhouse @home due:2024-07-20
+(C) clean bathroom and hallway +cleanhouse @home due:2024-07-18 @Thursday
+(C) clean my bedroom +cleanhouse @home due:2024-07-19 @Friday
+(C) cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
+(C) clean laundry room +cleanhouse @home due:2024-07-20 @Saturday
 (E) lunch with Jen 1130 +friends @errands due:2024-08-06
 (D) brunch with Maren and Jenny +friends @errands due:2024-07-27
 (A) pay car insurance 232 +bills +money @home due:2024-07-16
-(C) text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
-(C) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
+(A) text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
+(A) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
 (F) Suzi back to school +family @Suzi @kids due:2024-08-23
 (F) Tess back to school +family @Tess @kids due:2024-08-24
 (F) get new tires for Masha +Masha @errands due:2024-08-24
 (D) Friday plasma donation 0845 +money due:2024-07-26
-(A) put away clean dishes +cleanhouse @home due:2024-07-16 @am-rtn
 (G) Tess dentist 1110 +family @Tess due:2025-01-07
-(C) clean studio +cleanhouse @home @Monday due:2023-07-22
+(C) clean studio +cleanhouse @home @Monday due:2024-08-05
 Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
 (D) follow up with maybes +suzis-party @Tess due:2024-07-22
 (E) update insurance info on Westlake +money @internet due:2024-08-09
 (A) journal in notebook @personal @pm-rtn due:2024-07-16
 (G) -G list more than 60 days
+(B) put away clean dishes +cleanhouse @home @am-rtn due:2024-07-31
+(A) write out weekly plan +personal @home due:2024-07-30
+(B) complete daily sudoku +personal @phone @am-rtn due:2024-07-31
+(B) check-in on Atlas Earth +personal @phone @am-rtn due:2024-07-31
