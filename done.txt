@@ -199,3 +199,7 @@ x 2024-07-23 move money from Grifols to WF +money @errands due:2024-07-16
 x 2024-07-23 Micky work 11-7 +family +work @kids due:2024-07-16
 x 2024-07-23 clean kitchen and eating room +cleanhouse @home due:2024-07-16
 x 2024-07-30 put away clean dishes +cleanhouse @home due:2024-07-16 @am-rtn
+x 2024-07-30 text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
+x 2024-07-30 pay car insurance 232 +bills +money @home due:2024-07-16
+x 2024-07-30 Get Programming Lesson 24 +Python @computer due:2024-07-30
+x 2024-07-30 Get Programming Lesson 25 +Python @computer due:2024-07-30

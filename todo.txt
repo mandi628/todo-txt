@@ -18,8 +18,6 @@
 (C) clean laundry room +cleanhouse @home due:2024-07-20 @Saturday
 (E) lunch with Jen 1130 +friends @errands due:2024-08-06
 (D) brunch with Maren and Jenny +friends @errands due:2024-07-27
-(A) pay car insurance 232 +bills +money @home due:2024-07-16
-(A) text Eden about wool +spinning @AumannStudios due:2024-07-20 +CapeCharles
 (A) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
 (F) Suzi back to school +family @Suzi @kids due:2024-08-23
 (F) Tess back to school +family @Tess @kids due:2024-08-24
@@ -36,3 +34,8 @@ Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
 (A) write out weekly plan +personal @home due:2024-07-30
 (B) complete daily sudoku +personal @phone @am-rtn due:2024-07-31
 (B) check-in on Atlas Earth +personal @phone @am-rtn due:2024-07-31
+(B) Vitamin V recording +YouTube @USA due:2024-07-31
+(A) Get Programming Lesson 26 +Python @computer due:2024-07-30
+(A) Get Programming Lesson 27 +Python @computer due:2024-07-30
+(A) Get Programming Lesson 28 +Python @computer due:2024-07-30
+(A) Get Programming Lesson 29 +Python @computer due:2024-07-30
