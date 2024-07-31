@@ -12,15 +12,15 @@
 (C) cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
 (C) clean laundry room +cleanhouse @home @Saturday due:2024-08-03
 (C) lunch with Jen 1130 +friends @errands due:2024-08-06
-(A) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
+(B) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
 (E) Suzi back to school +family @Suzi @kids due:2024-08-23
 (E) Tess back to school +family @Tess @kids due:2024-08-24
 (E) get new tires for Masha +Masha @errands due:2024-08-24
 (H) Tess dentist 1110 +family @Tess due:2025-01-07
 (C) clean studio +cleanhouse @home @Monday due:2024-08-05
-Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
+
 (D) update insurance info on Westlake +money @internet due:2024-08-09
-(A) journal in notebook @personal @pm-rtn due:2024-07-16
+
 (G) -G list 2-3 months 2024-11-30
 (A) Vitamin V recording +YouTube @UpstateSuzuki due:2024-07-31
 (A) Get Programming Lesson 27 +Python @computer due:2024-07-30
@@ -74,16 +74,16 @@ Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
 (C) Suzi w/Ahn/Jess +kids @errands due:2024-08-04
 felt Ivory soap +felting +wishlist @AumannStudios
 felt goat soap +felting +wishlist @AumannStudios
-felt sheet of Lamby +felting +wip +oven-mitts @AumannStudios
-knit green tie +wip +knitting @AumannStudios
+
+
 knit linen stitch tie +knitting +wishlist @AumannStudios
 knit bow tie +knitting +wishlist @AumannStudios
-knit blue/tan socks +knitting +wip +socks @AumannStudios
-crochet sweater-vest +crochet +wip @AumannStudios
-stitch needlelace edging +lace +wip @AumannStudios
-(B) complete daily sudoku +personal @phone @am-rtn due:2024-08-01
-(B) check-in on Atlas Earth +personal @phone @am-rtn due:2024-08-01
-(A) tidy studio +cleanhouse @home @pm-rtn due:2024-07-31
+
+
+
+
+
+
 repair Lenovo laptop +Linux +programming @home +wishlist
 repair Dell laptop +Linux +programming +wishlist @home
 Samsung Chromebook +Linux install +programming +wip @home
@@ -118,7 +118,23 @@ Samsung Chromebook +Linux install +programming +wip @home
 (H) -H list 3-6 months 2025-01-31
 (I) -I list 6-9 months 2025-04-30
 (J) -J list more than 9 months
-(B) scoop catboxes +cleanhouse @home @am-rtn due:2024-08-01
+
 (D) 1400 Judah V viola +lessons @UpstateSuzuki @Wednesday due:2024-08-14
 (F) Programming Exercises +Python @chromebook due:2024-09-30
 review Roadmaps.sh tasks +DevOps @internet +Python +Linux
+(B) Morning Routine +personal @home due:2024-08-01
+(A) Bedtime Routine +personal @home due:2024-07-31
+
+
+
+
+
+(B) pick up library books @errands +programming due:2024-08-01
+(B) brainstorm course ideas for @UpstateSuzuki +academy due:2024-08-01
+(B) practice music +practice @UpstateSuzuki due:2024-08-01
+unwobble freezer +cleanhouse @home
+
+
+
+
+
