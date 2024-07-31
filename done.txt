@@ -205,3 +205,11 @@ x 2024-07-30 Get Programming Lesson 24 +Python @computer due:2024-07-30
 x 2024-07-30 Get Programming Lesson 25 +Python @computer due:2024-07-30
 x 2024-07-30 reply to Jen re- viola for Kathleen @phone @UpstateSuzuki due:2024-07-30
 x 2024-07-30 Get Programming Lesson 26 +Python @computer due:2024-07-30
+x 2024-07-30 buy decorations for party +suzis-party @errands due:2024-07-26
+x 2024-07-30 buy food for party +suzis-party @errands due:2024-07-26
+x 2024-07-30 buy party favors for party +suzis-party @errands due:2024-07-26
+x 2024-07-30 follow up with maybes +suzis-party @Tess due:2024-07-22
+x 2024-07-30 Friday plasma donation 0845 +money due:2024-07-26
+x 2024-07-30 moms nails @errands +family due:2024-07-28
+x 2024-07-30 return library books @errands due:2024-07-26
+x 2024-07-30 clean kitchen/eating room +cleanhouse @home @Tuesday due:2024-07-30

@@ -1,41 +1,54 @@
-(F) Learn how to use Vim @chromebook due:2024-08-31
-(D) return library books @errands due:2024-07-26
-(D) clean off work table +cleanhouse @home due:2024-07-26
+(E) Learn how to use Vim @chromebook due:2024-08-31
+(B) clean off work table +cleanhouse @home due:2024-07-31
 (A) A list due today
 (B) -B list due tomorrow
 (C) -C list due in next 7 days
 (D) -D list due in next 14 days
 (E) -E list due in next 30 days
 (F) -F list due in next 60 days
-(D) buy food for party +suzis-party @errands due:2024-07-26
-(D) buy decorations for party +suzis-party @errands due:2024-07-26
-(D) buy party favors for party +suzis-party @errands due:2024-07-26
-(D) moms nails @errands +family due:2024-07-28
-(B) clean great room +cleanhouse @home due:2024-07-17 @Wednesday
-(C) clean bathroom and hallway +cleanhouse @home due:2024-07-18 @Thursday
-(C) clean my bedroom +cleanhouse @home due:2024-07-19 @Friday
+(B) clean great room +cleanhouse @home @Wednesday due:2024-07-31
+(C) clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-01
+(C) clean my bedroom +cleanhouse @home @Friday due:2024-08-02
 (C) cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
-(C) clean laundry room +cleanhouse @home due:2024-07-20 @Saturday
-(E) lunch with Jen 1130 +friends @errands due:2024-08-06
-(D) brunch with Maren and Jenny +friends @errands due:2024-07-27
+(C) clean laundry room +cleanhouse @home @Saturday due:2024-08-03
+(D) lunch with Jen 1130 +friends @errands due:2024-08-06
 (A) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
-(F) Suzi back to school +family @Suzi @kids due:2024-08-23
-(F) Tess back to school +family @Tess @kids due:2024-08-24
-(F) get new tires for Masha +Masha @errands due:2024-08-24
-(D) Friday plasma donation 0845 +money due:2024-07-26
+(E) Suzi back to school +family @Suzi @kids due:2024-08-23
+(E) Tess back to school +family @Tess @kids due:2024-08-24
+(E) get new tires for Masha +Masha @errands due:2024-08-24
 (G) Tess dentist 1110 +family @Tess due:2025-01-07
 (C) clean studio +cleanhouse @home @Monday due:2024-08-05
 Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
-(D) follow up with maybes +suzis-party @Tess due:2024-07-22
-(E) update insurance info on Westlake +money @internet due:2024-08-09
+(D) update insurance info on Westlake +money @internet due:2024-08-09
 (A) journal in notebook @personal @pm-rtn due:2024-07-16
 (G) -G list more than 60 days
 (B) put away clean dishes +cleanhouse @home @am-rtn due:2024-07-31
 (A) write out weekly plan +personal @home due:2024-07-30
 (B) complete daily sudoku +personal @phone @am-rtn due:2024-07-31
 (B) check-in on Atlas Earth +personal @phone @am-rtn due:2024-07-31
-(B) Vitamin V recording +YouTube @USA due:2024-07-31
+(B) Vitamin V recording +YouTube @UpstateSuzuki due:2024-07-31
 (A) Get Programming Lesson 27 +Python @computer due:2024-07-30
 (A) Get Programming Lesson 28 +Python @computer due:2024-07-30
 (A) Get Programming Lesson 29 +Python @computer due:2024-07-30
-(A) clean kitchen/eating room +cleanhouse @home @Tuesday due:2024-07-30
+(E) return library books @errands due:2024-08-17
+(D) brunch with Maren +friends +personal @errands due:2024-08-10
+(B) 1530 Abby M viola +lessons @UpstateSuzuki due:2024-07-31
+(B) 1400 Judah V viola +lessons @UpstateSuzuki due:2024-07-31
+(C) 1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-01
+(C) 1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-01
+(C) 1600 Bea + LJ T violin +lessons @UpstateSuzuki due:2024-08-01
+(C) 1000 CRPC play +gigs @UpstateSuzuki due:2024-08-04 @Sunday
+(D) moms nails +personal @errands due:2024-08-11
+(E) Suzi to school +kids @errands due:2024-08-23
+(E) Tess to school +kids @trips due:2024-08-24
+(E) visit w/Dennis +family @trips +personal +CapeCharles due:2024-08-24
+(E) get fleece from Eden +CapeCharles @trips @AumannStudios due:2024-08-25
+(E) spinning demonstration +Blairsville @AumannStudios @trips +spinning due:2024-08-30
+(F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-12
+(F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-13
+(F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-14
+(B) RSVP for New Prospect +gigs @UpstateSuzuki due:2024-07-31
+(C) clean kitche/eating room +cleanhouse @home @Tuesday due:2024-08-06
+(B) 1700 Kathleen A p/u viola +lessons @UpstateSuzuki due:2024-07-31
+(B) deal w/Tess computer @home +kids due:2024-07-31
+(C) trash to street +cleanhouse @home @Sunday due:2024-08-04
