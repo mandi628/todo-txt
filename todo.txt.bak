@@ -2,10 +2,10 @@
 (A) clean off work table +cleanhouse @home due:2024-07-31
 (A) -A list due today
 (B) -B list due tomorrow
-(C) -C list due in next 7 days
-(D) -D list due in next 14 days
-(E) -E list due in next 30 days
-(F) -F list due in next 60 days
+(C) -C list due in next 7 days 2024-08-07
+(D) -D list due in next 14 days 2024-08-14
+(E) -E list due in next 30 days 2024-08-31
+(F) -F list due in next 60 days 2024-09-30
 (A) clean great room +cleanhouse @home @Wednesday due:2024-07-31
 (B) clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-01
 (C) clean my bedroom +cleanhouse @home @Friday due:2024-08-02
@@ -16,20 +16,18 @@
 (E) Suzi back to school +family @Suzi @kids due:2024-08-23
 (E) Tess back to school +family @Tess @kids due:2024-08-24
 (E) get new tires for Masha +Masha @errands due:2024-08-24
-(G) Tess dentist 1110 +family @Tess due:2025-01-07
+(H) Tess dentist 1110 +family @Tess due:2025-01-07
 (C) clean studio +cleanhouse @home @Monday due:2024-08-05
 Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
 (D) update insurance info on Westlake +money @internet due:2024-08-09
 (A) journal in notebook @personal @pm-rtn due:2024-07-16
-(G) -G list more than 60 days
+(G) -G list 2-3 months 2024-11-30
 (A) Vitamin V recording +YouTube @UpstateSuzuki due:2024-07-31
 (A) Get Programming Lesson 27 +Python @computer due:2024-07-30
 (A) Get Programming Lesson 28 +Python @computer due:2024-07-30
 (A) Get Programming Lesson 29 +Python @computer due:2024-07-30
 (E) return library books @errands due:2024-08-17
 (D) brunch with Maren +friends +personal @errands due:2024-08-10
-(A) 1530 Abby M viola +lessons @UpstateSuzuki due:2024-07-31
-(A) 1400 Judah V viola +lessons @UpstateSuzuki due:2024-07-31
 (B) 1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-01
 (B) 1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-01
 (B) 1600 Bea + LJ T violin +lessons @UpstateSuzuki due:2024-08-01
@@ -43,17 +41,15 @@ Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
 (F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-12
 (F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-13
 (F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-14
-(A) RSVP for New Prospect +gigs @UpstateSuzuki due:2024-07-31
 (C) clean kitche/eating room +cleanhouse @home @Tuesday due:2024-08-06
 (A) 1700 Kathleen A p/u viola +lessons @UpstateSuzuki due:2024-07-31
 (C) trash to street +cleanhouse @home @Sunday due:2024-08-04
-(B) 1130 lunch w/Makaria +friends @errands due:2024-08-01
+(B) 1130 lunch w/Makaria at Figs +friends @errands due:2024-08-01
 (B) Lammas celebration +sabbats @spiritual due:2024-08-01
 (C) New Moon celebration +esbats @spiritual due:2024-08-05
 (E) Full Moon celebration +esbats @spiritual due:2024-08-21
 (A) pay Verizon +money @bills due:2024-07-30
 (E) pay Direct Auto +money @bills due:2024-08-15
-(A) 1600-2100 Tess work PJ +kids @work due:2024-07-31
 (B) put away clean dishes +cleanhouse @home due:2024-08-01
 (C) one load laundry +cleanhouse @home @Friday due:2024-08-02
 (C) one load laundry +cleanhouse @home @Saturday due:2024-08-03
@@ -66,7 +62,6 @@ Todotxt Usage https://github.com/todotxt/todo.txt-cli/blob/master/USAGE.rmd
 (C) 1800 Me dinner - Leftovers +kids @dinner due:2024-08-04
 (B) 1030-1830 Micky work +kids @work due:2024-08-01
 (B) 1900 Mick/Ash Date Night +kids due:2024-08-01
-(B) 1600-2100 Tess work PJ +kids @work due:2024-08-01
 (C) 0800 Grifols donation +money @work @errands due:2024-08-02
 (C) 1030-1830 Micky work +kids @work @home due:2024-08-02
 (C) 1600-2115 Suzi work SBP +kids @work due:2024-08-02
@@ -87,6 +82,43 @@ knit blue/tan socks +knitting +wip +socks @AumannStudios
 crochet sweater-vest +crochet +wip @AumannStudios
 stitch needlelace edging +lace +wip @AumannStudios
 (B) complete daily sudoku +personal @phone @am-rtn due:2024-08-01
-(A) scoop catboxes +cleanhouse @home @am-rtn due:2024-07-31
 (B) check-in on Atlas Earth +personal @phone @am-rtn due:2024-08-01
 (A) tidy studio +cleanhouse @home @pm-rtn due:2024-07-31
+repair Lenovo laptop +Linux +programming @home +wishlist
+repair Dell laptop +Linux +programming +wishlist @home
+Samsung Chromebook +Linux install +programming +wip @home
+(G) 1500-1730 NPBC rehearsal +gigs @UpstateSuzuki due:2024-11-17
+(H) 1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-05
+(H) 1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-06
+(H) 1900-2100 NPBC performance +gigs @UpstateSuzuki due:2024-12-07
+(H) 1900-2100 NPBC performance +gigs @UpstateSuzuki due:2024-12-08
+(G) Tess Thanksgiving break starts +kids @trips due:2024-11-26
+(H) Tess Thanksgiving break ends +kids @trips due:2024-12-01
+(H) Tess winter break starts +kids @trips due:2024-12-13
+(H) Tess winter break ends +kids @trips due:2025-01-12
+(I) Tess spring break starts +kids @trips due:2025-02-28
+(I) Tess spring break ends +kids @trips due:2025-03-09
+(J) Tess school done +kids @trips due:2025-05-06
+(G) Suzi Thanksgiving break starts +kids @errands due:2024-11-26
+(H) Suzi Thanksgiving break ends +kids @errands due:2024-12-01
+(H) Suzi winter break starts +kids @errands due:2024-12-13
+(H) Suzi Jan-term starts +kids @errands due:2025-01-06
+(H) Suzi Jan-term ends +kids @errands due:2025-01-24
+(H) Suzi spring term starts +kids @errands due:2025-01-29
+(I) Suzi spring break starts +kids @errands due:2025-03-21
+(I) Suzi spring break ends +kids @errands due:2025-03-30
+(J) Suzi school done +kids @errands due:2025-05-15
+(H) Mickys birthday +kids @holiday due:2024-12-11
+(I) Ashleighs birthday +kids @holiday due:2025-04-19
+(J) Suzis birthday +kids @holiday due:2025-07-27
+(J) Tess birthday +kids @holiday due:2025-06-03
+(J) Abbies birthday +kids @holiday due:2025-07-01
+(I) Shaes birthday +kids @holiday due:2025-03-03
+(J) my birthday +personal @holiday due:2025-06-28
+(H) -H list 3-6 months 2025-01-31
+(I) -I list 6-9 months 2025-04-30
+(J) -J list more than 9 months
+(B) scoop catboxes +cleanhouse @home @am-rtn due:2024-08-01
+(D) 1400 Judah V viola +lessons @UpstateSuzuki @Wednesday due:2024-08-14
+(F) Programming Exercises +Python @chromebook due:2024-09-30
+review Roadmaps.sh tasks +DevOps @internet +Python +Linux
