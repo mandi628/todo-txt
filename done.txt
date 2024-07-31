@@ -213,3 +213,8 @@ x 2024-07-30 Friday plasma donation 0845 +money due:2024-07-26
 x 2024-07-30 moms nails @errands +family due:2024-07-28
 x 2024-07-30 return library books @errands due:2024-07-26
 x 2024-07-30 clean kitchen/eating room +cleanhouse @home @Tuesday due:2024-07-30
+x 2024-07-31 put away clean dishes +cleanhouse @home @am-rtn due:2024-07-31
+x 2024-07-31 write out weekly plan +personal @home due:2024-07-30
+x 2024-07-31 complete daily sudoku +personal @phone @am-rtn due:2024-07-31
+x 2024-07-31 check-in on Atlas Earth +personal @phone @am-rtn due:2024-07-31
+x 2024-07-31 0930-1730 Suzi work CBA +kids @work due:2024-07-31
