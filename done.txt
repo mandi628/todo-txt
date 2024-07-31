@@ -218,3 +218,7 @@ x 2024-07-31 write out weekly plan +personal @home due:2024-07-30
 x 2024-07-31 complete daily sudoku +personal @phone @am-rtn due:2024-07-31
 x 2024-07-31 check-in on Atlas Earth +personal @phone @am-rtn due:2024-07-31
 x 2024-07-31 0930-1730 Suzi work CBA +kids @work due:2024-07-31
+x 2024-07-31 1030-1830 Micky work +kids @work due:2024-07-31
+x 2024-07-31 deal w/Tess computer @home +kids due:2024-07-31 @errands
+x 2024-07-31 get butterfly strip for Ash @errands +kids due:2024-07-31
+x 2024-07-31 print music for Judah +lessons @errands @UpstateSuzuki due:2024-07-31
