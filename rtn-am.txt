@@ -4,3 +4,4 @@
 check-in on Atlas Earth +personal @phone @am-rtn
 complete daily sudoku +personal @phone @am-rtn
 scoop catboxes +cleanhouse @home @am-rtn
+JustFit workout +personal @home @am-rtn

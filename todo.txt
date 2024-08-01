@@ -6,7 +6,6 @@
 (D) -D list due in next 14 days 2024-08-14
 (E) -E list due in next 30 days 2024-08-31
 (F) -F list due in next 60 days 2024-09-30
-(A) clean great room +cleanhouse @home @Wednesday due:2024-07-31
 (B) clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-01
 (C) clean my bedroom +cleanhouse @home @Friday due:2024-08-02
 (C) cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
@@ -116,9 +115,4 @@ review Roadmaps.sh tasks +DevOps @internet +Python +Linux
 unwobble freezer +cleanhouse @home
 fill in check registers +money +personal @home
 (B) 1130 lunch w/Makaria at Figs +friends @errands due:2024-08-01
-
-
-
-
-
-
+(C) clean great room +cleanhouse @home @Wednesday due:2024-08-07
