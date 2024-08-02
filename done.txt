@@ -234,3 +234,16 @@ x 2024-07-31 1700 Kathleen A p/u viola +lessons @UpstateSuzuki due:2024-07-31
 x 2024-07-31 1800 Suzi dinner - Grilled Cheese w/soup +kids @dinner due:2024-07-31
 x 2024-07-31 knit green tie +wip +knitting @AumannStudios ~60min
 x 2024-07-31 clean great room +cleanhouse @home @Wednesday due:2024-07-31
+x 2024-08-01 knit green tie +eip +knitting @AumannStudios ~start decrease
+x 2024-08-01 Morning Routine +personal @home due:2024-08-01
+x 2024-08-01 1130 lunch w/Makaria at Figs +friends @errands due:2024-08-01
+x 2024-08-01 Get Programming Lesson 27 +Python @computer due:2024-08-01
+x 2024-08-01 1030-1830 Micky work +kids @work due:2024-08-01
+x 2024-08-01 1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-01
+x 2024-08-01 1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-01
+x 2024-08-01 1600 Bea + LJ T violin +lessons @UpstateSuzuki due:2024-08-01
+x 2024-08-01 clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-01
+x 2024-08-01 practice music +practice @UpstateSuzuki due:2024-08-01
+x 2024-08-01 1800 Tess dinner - Breakfast +kids @dinner due:2024-08-01
+x 2024-08-01 0800 Grifols donation +money @work @errands due:2024-08-02
+x 2024-08-01 1900 Mick/Ash Date Night +kids due:2024-08-01

@@ -1,71 +1,54 @@
-(E) Learn how to use Vim @chromebook due:2024-08-31
-(A) clean off work table +cleanhouse @home due:2024-07-31
-(A) -A list due today
-(B) -B list due tomorrow
-(C) -C list due in next 7 days 2024-08-07
-(D) -D list due in next 14 days 2024-08-14
-(E) -E list due in next 30 days 2024-08-31
-(F) -F list due in next 60 days 2024-09-30
-(A) clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-01
-(C) clean my bedroom +cleanhouse @home @Friday due:2024-08-02
-(C) cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
-(C) clean laundry room +cleanhouse @home @Saturday due:2024-08-03
-(C) lunch with Jen 1130 +friends @errands due:2024-08-06
-(A) email ESO conductor re- visit +CapeCharles @UpstateSuzuki due:2024-07-20
-(E) Suzi back to school +family @Suzi @kids due:2024-08-23
-(E) Tess back to school +family @Tess @kids due:2024-08-24
-(E) get new tires for Masha +Masha @errands due:2024-08-24
-(H) Tess dentist 1110 +family @Tess due:2025-01-07
-(C) clean studio +cleanhouse @home @Monday due:2024-08-05
-(D) update insurance info on Westlake +money @internet due:2024-08-09
-(G) -G list 2-3 months 2024-11-30
-(A) Vitamin V recording +YouTube @UpstateSuzuki due:2024-07-31
-(A) Get Programming Lesson 27 +Python @computer due:2024-07-30
-(A) Get Programming Lesson 28 +Python @computer due:2024-07-30
-(A) Get Programming Lesson 29 +Python @computer due:2024-07-30
-(E) return library books @errands due:2024-08-17
-(D) brunch with Maren +friends +personal @errands due:2024-08-10
-(B) 1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-01
-(B) 1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-01
-(B) 1600 Bea + LJ T violin +lessons @UpstateSuzuki due:2024-08-01
-(C) 1000 CRPC play +gigs @UpstateSuzuki due:2024-08-04 @Sunday
-(D) moms nails +personal @errands due:2024-08-11
-(E) Suzi to school +kids @errands due:2024-08-23
-(E) Tess to school +kids @trips due:2024-08-24
-(E) visit w/Dennis +family @trips +personal +CapeCharles due:2024-08-24
-(E) get fleece from Eden +CapeCharles @trips @AumannStudios due:2024-08-25
-(E) spinning demonstration +Blairsville @AumannStudios @trips +spinning due:2024-08-30
-(F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-12
-(F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-13
-(F) CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-14
-(C) clean kitche/eating room +cleanhouse @home @Tuesday due:2024-08-06
-(C) trash to street +cleanhouse @home @Sunday due:2024-08-04
-(A) Lammas celebration +sabbats @spiritual due:2024-08-01
-(C) New Moon celebration +esbats @spiritual due:2024-08-05
-(E) Full Moon celebration +esbats @spiritual due:2024-08-21
+Learn how to use Vim @chromebook due:2024-08-31
+clean off work table +cleanhouse @home due:2024-08-02
+clean my bedroom +cleanhouse @home @Friday due:2024-08-02
+cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
+clean laundry room +cleanhouse @home @Saturday due:2024-08-03
+lunch with Jen 1130 +friends @errands due:2024-08-06
+email ESO conductor re-visit +CapeCharles @UpstateSuzuki due:2024-08-05
+Suzi back to school +family @Suzi @kids due:2024-08-23
+Tess back to school +family @Tess @kids due:2024-08-24
+get new tires for Masha +Masha @errands due:2024-08-24
+Tess dentist 1110 +family @Tess due:2025-01-07
+clean studio +cleanhouse @home @Monday due:2024-08-05
+update insurance info on Westlake +money @internet due:2024-08-09
+(A) Vitamin V recording +YouTube @UpstateSuzuki due:2024-08-01 *1
+Get Programming Lesson 28 +Python @computer
+Get Programming Lesson 29 +Python @computer
+return library books @errands due:2024-08-17
+brunch with Maren +friends +personal @errands due:2024-08-10
+1000 CRPC play +gigs @UpstateSuzuki due:2024-08-04 @Sunday
+moms nails +personal @errands due:2024-08-11
+Suzi to school +kids @errands due:2024-08-23
+Tess to school +kids @trips due:2024-08-24
+visit w/Dennis +family @trips +personal +CapeCharles due:2024-08-24
+get fleece from Eden +CapeCharles @trips @AumannStudios due:2024-08-25
+spinning demonstration +Blairsville @AumannStudios @trips +spinning due:2024-08-30
+CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-12
+CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-13
+CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-14
+clean kitche/eating room +cleanhouse @home @Tuesday due:2024-08-06
+trash to street +cleanhouse @home @Sunday due:2024-08-04
+(C) Lammas celebration +sabbats @spiritual due:2024-08-01
+New Moon celebration +esbats @spiritual due:2024-08-05
+Full Moon celebration +esbats @spiritual due:2024-08-21
 (A) pay Verizon +money @bills due:2024-07-30
-(E) pay Direct Auto +money @bills due:2024-08-15
-
-(C) one load laundry +cleanhouse @home @Friday due:2024-08-02
-(C) one load laundry +cleanhouse @home @Saturday due:2024-08-03
-(C) one load laundry +cleanhouse @home @Sunday due:2024-08-04
-(A) put away clean laundry +cleanhouse @home due:2024-07-31
-(A) 1800 Tess dinner - Breakfast +kids @dinner due:2024-08-01
-(C) 1800 Mick/Ash dinner - Salmon w/veg/rice +kids @dinner due:2924-08-03
-(C) 1800 Me dinner - Salisbury Steaks w/pot/veg +kids @dinner due:2024-08-04
-(C) 1800 Me dinner - Leftovers +kids @dinner due:2024-08-02
-(B) 1030-1830 Micky work +kids @work due:2024-08-01
-(A) 1900 Mick/Ash Date Night +kids due:2024-08-01
-(C) 0800 Grifols donation +money @work @errands due:2024-08-02
-(C) 1030-1830 Micky work +kids @work @home due:2024-08-02
-(C) 1600-2115 Suzi work SBP +kids @work due:2024-08-02
-(C) 1100-1600 Tess work CBA +kids @work due:2024-08-02
-(C) 1600-2100 Tess work PJ +kids @work due:2024-08-02
-(C) 1230-2100 Suzi work CBS +kids @work due:2024-08-03
-(C) 1100-1600 Tess work CBA +kids @work due:2024-08-03
-(C) 1600-2100 Tess work PJ +kids @work due:2024-08-03
-(C) 1400-1600 Visit O/B at new house +family @errands due:2024-08-04
-(C) Suzi w/Ahn/Jess +kids @errands due:2024-08-04
+pay Direct Auto +money @bills due:2024-08-15
+one load laundry +cleanhouse @home @Friday due:2024-08-02
+one load laundry +cleanhouse @home @Saturday due:2024-08-03
+one load laundry +cleanhouse @home @Sunday due:2024-08-04
+(A) put away clean laundry +cleanhouse @home due:2024-08-01
+1800 Mick/Ash dinner - Salmon w/veg/rice +kids @dinner due:2924-08-03
+1800 Me dinner - Salisbury Steaks w/pot/veg +kids @dinner due:2024-08-04
+1800 Me dinner - Leftovers +kids @dinner due:2024-08-02
+1030-1830 Micky work +kids @work @home due:2024-08-02
+1600-2115 Suzi work SBP +kids @work due:2024-08-02
+1100-1600 Tess work CBA +kids @work due:2024-08-02
+1600-2100 Tess work PJ +kids @work due:2024-08-02
+1230-2100 Suzi work CBS +kids @work due:2024-08-03
+1100-1600 Tess work CBA +kids @work due:2024-08-03
+1600-2100 Tess work PJ +kids @work due:2024-08-03
+1400-1600 Visit O/B at new house +family @errands due:2024-08-04
+Suzi w/Ahn/Jess +kids @errands due:2024-08-04
 felt Ivory soap +felting +wishlist @AumannStudios
 felt goat soap +felting +wishlist @AumannStudios
 knit linen stitch tie +knitting +wishlist @AumannStudios
@@ -73,46 +56,51 @@ knit bow tie +knitting +wishlist @AumannStudios
 repair Lenovo laptop +Linux +programming @home +wishlist
 repair Dell laptop +Linux +programming +wishlist @home
 Samsung Chromebook +Linux install +programming +wip @home
-(G) 1500-1730 NPBC rehearsal +gigs @UpstateSuzuki due:2024-11-17
-(H) 1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-05
-(H) 1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-06
-(H) 1900-2100 NPBC performance +gigs @UpstateSuzuki due:2024-12-07
-(H) 1900-2100 NPBC performance +gigs @UpstateSuzuki due:2024-12-08
-(G) Tess Thanksgiving break starts +kids @trips due:2024-11-26
-(H) Tess Thanksgiving break ends +kids @trips due:2024-12-01
-(H) Tess winter break starts +kids @trips due:2024-12-13
-(H) Tess winter break ends +kids @trips due:2025-01-12
-(I) Tess spring break starts +kids @trips due:2025-02-28
-(I) Tess spring break ends +kids @trips due:2025-03-09
-(J) Tess school done +kids @trips due:2025-05-06
-(G) Suzi Thanksgiving break starts +kids @errands due:2024-11-26
-(H) Suzi Thanksgiving break ends +kids @errands due:2024-12-01
-(H) Suzi winter break starts +kids @errands due:2024-12-13
-(H) Suzi Jan-term starts +kids @errands due:2025-01-06
-(H) Suzi Jan-term ends +kids @errands due:2025-01-24
-(H) Suzi spring term starts +kids @errands due:2025-01-29
-(I) Suzi spring break starts +kids @errands due:2025-03-21
-(I) Suzi spring break ends +kids @errands due:2025-03-30
-(J) Suzi school done +kids @errands due:2025-05-15
-(H) Mickys birthday +kids @holiday due:2024-12-11
-(I) Ashleighs birthday +kids @holiday due:2025-04-19
-(J) Suzis birthday +kids @holiday due:2025-07-27
-(J) Tess birthday +kids @holiday due:2025-06-03
-(J) Abbies birthday +kids @holiday due:2025-07-01
-(I) Shaes birthday +kids @holiday due:2025-03-03
-(J) my birthday +personal @holiday due:2025-06-28
-(H) -H list 3-6 months 2025-01-31
-(I) -I list 6-9 months 2025-04-30
-(J) -J list more than 9 months
-(D) 1400 Judah V viola +lessons @UpstateSuzuki @Wednesday due:2024-08-14
-(F) Programming Exercises +Python @chromebook due:2024-09-30
+1500-1730 NPBC rehearsal +gigs @UpstateSuzuki due:2024-11-17
+1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-05
+1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-06
+1900-2100 NPBC performance +gigs @UpstateSuzuki due:2024-12-07
+1900-2100 NPBC performance +gigs @UpstateSuzuki due:2024-12-08
+Tess Thanksgiving break starts +kids @trips due:2024-11-26
+Tess Thanksgiving break ends +kids @trips due:2024-12-01
+Tess winter break starts +kids @trips due:2024-12-13
+Tess winter break ends +kids @trips due:2025-01-12
+Tess spring break starts +kids @trips due:2025-02-28
+Tess spring break ends +kids @trips due:2025-03-09
+Tess school done +kids @trips due:2025-05-06
+Suzi Thanksgiving break starts +kids @errands due:2024-11-26
+Suzi Thanksgiving break ends +kids @errands due:2024-12-01
+Suzi winter break starts +kids @errands due:2024-12-13
+Suzi Jan-term starts +kids @errands due:2025-01-06
+Suzi Jan-term ends +kids @errands due:2025-01-24
+Suzi spring term starts +kids @errands due:2025-01-29
+Suzi spring break starts +kids @errands due:2025-03-21
+Suzi spring break ends +kids @errands due:2025-03-30
+Suzi school done +kids @errands due:2025-05-15
+Mickys birthday +kids @holiday due:2024-12-11
+Ashleighs birthday +kids @holiday due:2025-04-19
+Suzis birthday +kids @holiday due:2025-07-27
+Tess birthday +kids @holiday due:2025-06-03
+Abbies birthday +kids @holiday due:2025-07-01
+Shaes birthday +kids @holiday due:2025-03-03
+my birthday +personal @holiday due:2025-06-28
+1400 Judah V viola +lessons @UpstateSuzuki @Wednesday due:2024-08-14
+Programming Exercises +Python @chromebook due:2024-09-30
 review Roadmaps.sh tasks +DevOps @internet +Python +Linux
-(A) Morning Routine +personal @home due:2024-08-01
-(A) Bedtime Routine +personal @home due:2024-07-31
-(A) pick up library books @errands +programming due:2024-08-01
+(B) Bedtime Routine +personal @home due:2024-08-01
 (A) brainstorm course ideas for @UpstateSuzuki +academy due:2024-08-01
-(A) practice music +practice @UpstateSuzuki due:2024-08-01
 unwobble freezer +cleanhouse @home
 fill in check registers +money +personal @home
-(B) 1130 lunch w/Makaria at Figs +friends @errands due:2024-08-01
-(C) clean great room +cleanhouse @home @Wednesday due:2024-08-07
+clean great room +cleanhouse @home @Wednesday due:2024-08-07
+1530 Abby M viola +lessons @UpstateSuzuki due:2024-08-07
+(C) knit green tie +wip +knitting @AumannStudios ~60min due:2024-08-01
+Morning Routine +personal @home due:2024-08-02
+(C) make lentil patties for Sunday +kids @home @dinner due:2024-08-01
+Python by Example +Python @computer due:2024-08-02
+1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-08
+1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-08
+1600 Bea + LJ T violin +lessons @UpstateSuzuki due:2024-08-08
+1630 Benjamin T violin +lessons @UpstateSuzuki due:2024-08-08
+practice music +practice @UpstateSuzuki due:2024-08-02
+clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-08
+0800 Grifols donation +money @work @errands due:2024-08-02
