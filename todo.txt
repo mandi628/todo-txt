@@ -1,6 +1,6 @@
 Learn how to use Vim @chromebook due:2024-08-31
-clean off work table +cleanhouse @home due:2024-08-02
-clean my bedroom +cleanhouse @home @Friday due:2024-08-02
+(C) clean off work table +cleanhouse @home due:2024-08-02
+(B) clean my bedroom +cleanhouse @home @Friday due:2024-08-02
 cut grass in front yard +cleanhouse @home @Saturday due:2024-08-03
 clean laundry room +cleanhouse @home @Saturday due:2024-08-03
 lunch with Jen 1130 +friends @errands due:2024-08-06
@@ -28,22 +28,21 @@ CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-13
 CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-14
 clean kitche/eating room +cleanhouse @home @Tuesday due:2024-08-06
 trash to street +cleanhouse @home @Sunday due:2024-08-04
-(C) Lammas celebration +sabbats @spiritual due:2024-08-01
 New Moon celebration +esbats @spiritual due:2024-08-05
 Full Moon celebration +esbats @spiritual due:2024-08-21
 (A) pay Verizon +money @bills due:2024-07-30
 pay Direct Auto +money @bills due:2024-08-15
-one load laundry +cleanhouse @home @Friday due:2024-08-02
+(B) one load laundry +cleanhouse @home @Friday due:2024-08-02
 one load laundry +cleanhouse @home @Saturday due:2024-08-03
 one load laundry +cleanhouse @home @Sunday due:2024-08-04
 (A) put away clean laundry +cleanhouse @home due:2024-08-01
 1800 Mick/Ash dinner - Salmon w/veg/rice +kids @dinner due:2924-08-03
 1800 Me dinner - Salisbury Steaks w/pot/veg +kids @dinner due:2024-08-04
-1800 Me dinner - Leftovers +kids @dinner due:2024-08-02
-1030-1830 Micky work +kids @work @home due:2024-08-02
-1600-2115 Suzi work SBP +kids @work due:2024-08-02
-1100-1600 Tess work CBA +kids @work due:2024-08-02
-1600-2100 Tess work PJ +kids @work due:2024-08-02
+(A) 1800 Me dinner - Leftovers +kids @dinner due:2024-08-02
+(D) 1030-1830 Micky work +kids @work @home due:2024-08-02
+(D) 1600-2115 Suzi work SBP +kids @work due:2024-08-02
+(D) 1100-1600 Tess work CBA +kids @work due:2024-08-02
+(D) 1600-2100 Tess work PJ +kids @work due:2024-08-02
 1230-2100 Suzi work CBS +kids @work due:2024-08-03
 1100-1600 Tess work CBA +kids @work due:2024-08-03
 1600-2100 Tess work PJ +kids @work due:2024-08-03
@@ -93,17 +92,15 @@ unwobble freezer +cleanhouse @home
 fill in check registers +money +personal @home
 clean great room +cleanhouse @home @Wednesday due:2024-08-07
 1530 Abby M viola +lessons @UpstateSuzuki due:2024-08-07
-(C) knit green tie +wip +knitting @AumannStudios ~60min due:2024-08-01
-Morning Routine +personal @home due:2024-08-02
+(B) Morning Routine +personal @home due:2024-08-02
 (C) make lentil patties for Sunday +kids @home @dinner due:2024-08-01
-Python by Example +Python @computer due:2024-08-02
+(A) Python by Example +Python @computer due:2024-08-02
 1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-08
 1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-08
 1600 Bea + LJ T violin +lessons @UpstateSuzuki due:2024-08-08
 1630 Benjamin T violin +lessons @UpstateSuzuki due:2024-08-08
-practice music +practice @UpstateSuzuki due:2024-08-02
+(A) practice music +practice @UpstateSuzuki due:2024-08-02
 clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-08
-0800 Grifols donation +money @work @errands due:2024-08-02
-(B) 1130 lunch w/Makaria at Figs +friends @errands due:2024-08-01
+(A) 0800 Grifols donation +money @work @errands due:2024-08-02
 (C) clean great room +cleanhouse @home @Wednesday due:2024-08-07
-
+Lammas celebration +sabbats @spiritual due:2025-08-01
