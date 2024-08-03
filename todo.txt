@@ -20,7 +20,7 @@ brunch with Maren +friends +personal @errands due:2024-08-10
 moms nails +personal @errands due:2024-08-11
 Suzi to school +kids @errands due:2024-08-23
 Tess to school +kids @trips due:2024-08-24
-visit w/Dennis +family @trips +personal +CapeCharles due:2024-08-24
+
 get fleece from Eden +CapeCharles @trips @AumannStudios due:2024-08-25
 spinning demonstration +Blairsville @AumannStudios @trips +spinning due:2024-08-30
 CAA Concert of Hope +gigs @UpstateSuzuki due:2024-09-12
@@ -39,9 +39,7 @@ one load laundry +cleanhouse @home @Sunday due:2024-08-04
 1800 Mick/Ash dinner - Salmon w/veg/rice +kids @dinner due:2924-08-03
 1800 Me dinner - Salisbury Steaks w/pot/veg +kids @dinner due:2024-08-04
 (A) 1800 Me dinner - Leftovers +kids @dinner due:2024-08-02
-(D) 1030-1830 Micky work +kids @work @home due:2024-08-02
 (D) 1600-2115 Suzi work SBP +kids @work due:2024-08-02
-(D) 1100-1600 Tess work CBA +kids @work due:2024-08-02
 (D) 1600-2100 Tess work PJ +kids @work due:2024-08-02
 1230-2100 Suzi work CBS +kids @work due:2024-08-03
 1100-1600 Tess work CBA +kids @work due:2024-08-03
@@ -52,8 +50,8 @@ felt Ivory soap +felting +wishlist @AumannStudios
 felt goat soap +felting +wishlist @AumannStudios
 knit linen stitch tie +knitting +wishlist @AumannStudios
 knit bow tie +knitting +wishlist @AumannStudios
-repair Lenovo laptop +Linux +programming @home +wishlist
-repair Dell laptop +Linux +programming +wishlist @home
+
+
 Samsung Chromebook +Linux install +programming +wip @home
 1500-1730 NPBC rehearsal +gigs @UpstateSuzuki due:2024-11-17
 1900-2100 NPBC rehearsal +gigs @UpstateSuzuki due:2024-12-05
@@ -85,15 +83,13 @@ Shaes birthday +kids @holiday due:2025-03-03
 my birthday +personal @holiday due:2025-06-28
 1400 Judah V viola +lessons @UpstateSuzuki @Wednesday due:2024-08-14
 Programming Exercises +Python @chromebook due:2024-09-30
-review Roadmaps.sh tasks +DevOps @internet +Python +Linux
+
 (B) Bedtime Routine +personal @home due:2024-08-01
 (A) brainstorm course ideas for @UpstateSuzuki +academy due:2024-08-01
 unwobble freezer +cleanhouse @home
 fill in check registers +money +personal @home
 clean great room +cleanhouse @home @Wednesday due:2024-08-07
 1530 Abby M viola +lessons @UpstateSuzuki due:2024-08-07
-(B) Morning Routine +personal @home due:2024-08-02
-(C) make lentil patties for Sunday +kids @home @dinner due:2024-08-01
 (A) Python by Example +Python @computer due:2024-08-02
 1400 Ruby F guitar +lessons @UpstateSuzuki @Thursday due:2024-08-08
 1430 Luke + Eirene W violin +lessons @UpstateSuzuki due:2024-08-08
@@ -101,6 +97,9 @@ clean great room +cleanhouse @home @Wednesday due:2024-08-07
 1630 Benjamin T violin +lessons @UpstateSuzuki due:2024-08-08
 (A) practice music +practice @UpstateSuzuki due:2024-08-02
 clean bathroom/hallway +cleanhouse @home @Thursday due:2024-08-08
-(A) 0800 Grifols donation +money @work @errands due:2024-08-02
-(C) clean great room +cleanhouse @home @Wednesday due:2024-08-07
+clean great room +cleanhouse @home @Wednesday due:2024-08-07
 Lammas celebration +sabbats @spiritual due:2025-08-01
+0800 Grifols donation +money @work @errands due:2024-08-06
+Morning Routine +personal @home due:2024-08-03
+
+(C) stitch up studio cape +sewing +new-wardrobe @home
