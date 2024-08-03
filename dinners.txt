@@ -1,18 +1,16 @@
-Salmon baked pan-fried poached
-Crockpot Pierogi Casserole
-Baked Artichokes
-Taco Bar
-Salisbury Steaks Lentil patties
-Sweet + Sour Shrimp
-Salmon Wellington
-Fish Tacos (tilapia)
-
-
-Chicken Gyros @Tasty
-Chicken Adobo @binder
-Chicken Fajita Quesadillas @Tasty
-Chicken Masala @Tasty
-Chicken Bog (w/turkey kielbasa) @binder
-Stuffed Pasta w/beans in sauce
-Mexican w/o meat
-Vegetable Stir-Fri w/tofu
+Salmon baked pan-fried poached @original +fish
+Crockpot Pierogi Casserole (use turkey kielbasa) @internet +Ukrainian
+Baked Artichokes @original +vegetarian
+Taco Bar @diy +Mexican +vegetarian
+Salisbury Steaks Lentil patties @original +vegetarian
+Sweet + Sour Shrimp @internet +Asian +fish
+Salmon Wellington @internet +fish
+Fish Tacos (tilapia) @Tasty +Mexican +fish
+Chicken Gyros @Tasty +poultry
+Chicken Adobo @binder +poultry +Philipines
+Chicken Fajita Quesadillas @Tasty +Mexican +poultry
+Chicken Masala @Tasty +Indian +poultry
+Chicken Bog (w/turkey kielbasa) @binder +Southern +poultry
+Stuffed Pasta w/beans in sauce @binder +Italian +vegetarian
+Mexican w/o meat @original +vegetarian
+Vegetable Stir-Fri w/tofu @original +Asian +vegetarian

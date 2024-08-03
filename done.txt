@@ -250,3 +250,15 @@ x 2024-08-01 1900 Mick/Ash Date Night +kids due:2024-08-01
 x 2024-08-02 1130 lunch w/Makaria at Figs +friends @errands due:2024-08-01
 x 2024-08-02 knit green tie +wip +knitting @AumannStudios ~60min due:2024-08-01
 x 2024-08-02 Lammas celebration +sabbats @spiritual due:2024-08-01
+x 2024-08-02 0800 Grifols donation +money @work @errands due:2024-08-02
+x 2024-08-02 Morning Routine +personal @home due:2024-08-02 ~partial
+x 2024-08-02 make lentil patties for Sunday +kids @home @dinner due:2024-08-01
+x 2024-08-02 1030-1830 Micky work +kids @work @home due:2024-08-02
+x 2024-08-02 1100-1600 Tess work CBA +kids @work due:2024-08-02
+x 2024-08-02 1800 Me dinner - Leftovers +kids @dinner due:2024-08-02
+x 2024-08-03 put away clean laundry +cleanhouse @home due:2024-08-01 ~20pcs
+x 2024-08-03 Bedtime Routine +personal @home due:2024-08-01
+x 2024-08-03 clean my bedroom +cleanhouse @home @Friday due:2024-08-02 ~partial
+x 2024-08-03 one load laundry +cleanhouse @home @Friday due:2024-08-02 ~folding only
+x 2024-08-03 1600-2100 Tess work PJ +kids @work due:2024-08-02
+x 2024-08-03 1600-2115 Suzi work SBP +kids @work due:2024-08-02
