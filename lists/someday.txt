@@ -1,2 +1,0 @@
-repair Dell laptop +Linux +programming +wishlist @home
-repair Lenovo laptop +Linux +programming @home +wishlist
