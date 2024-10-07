@@ -1,8 +1,22 @@
 update insurance info on Westlake +money @internet due:2024-08-09
 (F) pay Direct Auto +money @bills due:2024-10-15
-
-
-
-
-
-
+(A) put away stuff in new cabinet @home +kitchen
+(A) finish keychain warp @as +keychains
+(B) setup color scheme on template @wbdv +aum-int
+(B) review portfolio site and add website links @wbdv +portfolio
+(B) update linked pages with W3.CSS @wbdv +portfolio
+(B) find out how to restrict viewing of pages @wbdv +cat-lady
+(B) finish right sleeve @as +blue-sweater
+(B) finish rug for catbox @as +cat-rug
+(B) start my corset @as +clothes
+setup SSH key for laptop @wbdv +laptop
+(A) work on basket #1 @as +baskets
+Ep04 Finger Patterns - Part 2 due:2024-10-08 @usa +vt
+Ep05 Third Position due:2024-10-15 @usa +vt
+Download VT03 and make handout @usa +usa-web +vt
+Download VT02 and make handout @usa +usa-web +vt
+Upload VT01 video and handout @usa +usa-web +vt
+Add content to membership pages @usa +usa-web
+Make membership pages live @usa +usa-web
+(A) scoop catboxes @home +cleaning due:2024-10-07
+(A) post a blog post for USA @usa +usa-web +usa-blog due:2024-10-07

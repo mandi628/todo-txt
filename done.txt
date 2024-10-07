@@ -368,3 +368,12 @@ x 2024-10-06 email ESO conductor re-visit +CapeCharles @UpstateSuzuki due:2024-0
 x 2024-10-06 get fleece from Eden +CapeCharles @trips @AumannStudios due:2024-08-25
 x 2024-10-06 get new tires for Masha +Masha @errands due:2024-08-24
 x 2024-10-06 pay Direct Auto +money @bills due:2024-08-15
+x 2024-10-06 install Avast on laptop @wbdv +laptop
+x 2024-10-06 install CCleaner on laptop @wbdv +laptop
+x 2024-10-06 install python on laptop @wbdv +laptop
+x 2024-10-06 install cygwin on laptop @wbdv +laptop
+x 2024-10-06 install Git on laptop @wbdv +laptop
+x 2024-10-06 install VSCode on laptop @wbdv +laptop
+x 2024-10-06 install libreoffice on laptop @wbdv +laptop
+x 2024-10-06 defrag laptop @wbdv +laptop
+x 2024-10-07 deal with pine needles @as +baskets
