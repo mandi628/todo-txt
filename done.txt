@@ -381,3 +381,4 @@ x 2024-10-07 put away stuff in new cabinet @home +kitchen
 x 2024-10-07 work on basket #1 @as +baskets
 x 2024-10-07 setup SSH key for laptop @wbdv +laptop
 x 2024-10-07 install MuseScore on laptop @wbdv +laptop
+x 2024-10-07 work on rug for catbox @as +cat-rug

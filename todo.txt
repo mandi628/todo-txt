@@ -6,7 +6,6 @@
 (B) update linked pages with W3.CSS @wbdv +portfolio
 (B) find out how to restrict viewing of pages @wbdv +cat-lady
 (B) finish right sleeve @as +blue-sweater
-(A) work on rug for catbox @as +cat-rug
 (B) start my corset @as +clothes
 (B) Ep04 Finger Patterns - Part 2 due:2024-10-08 @usa +vt
 (D) Ep05 Third Position due:2024-10-15 @usa +vt
@@ -23,9 +22,9 @@ Make membership pages live @usa +usa-web
 finish sewing together @as +orange-sweater
 make coasters for Suzi @as +coasters
 (C) finish warp on big loom @as +dennis-lanyards
-(A) DINNER: (Ma) Fish Filets, cheddar/brocolli rice, veg @home +menu due:2024-10-07
+(C) DINNER: (Ma) Fish Filets, cheddar/brocolli rice, veg @home +menu due:2024-10-07
 (B) DINNER: (Ma) Stuffed Pasta and salad @home +menu due:2024-10-08
-(A) grocery store for dinner supplies @errands +menu due:2024-10-07
+(B) grocery store for dinner supplies @errands +menu due:2024-10-07
 (C) DINNER: (Ash) @home +menu due:2024-10-09
 (C) DINNER: (Ma) M&A Date Night @home +menu due:2024-10-10
 (C) DINNER: (Ash) (Haleigh here) @home +menu due:2024-10-11
@@ -41,3 +40,4 @@ make coasters for Suzi @as +coasters
 .Unassigned
 make dryer balls @as +wool
 make wool balls for dogs @as +wool
+(B) work on rug for catbox @as +cat-rug
