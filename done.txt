@@ -391,3 +391,44 @@ x 2024-10-07 setup SSH key for laptop @wbdv +laptop
 x 2024-10-07 install MuseScore on laptop @wbdv +laptop
 x 2024-10-07 work on rug for catbox @as +cat-rug
 >>>>>>> 96d13e354bb5a53135fd7d4d59c7ec21f61da3e7
+x 2025-01-31 >>>>>>> 96d13e354bb5a53135fd7d4d59c7ec21f61da3e7
+x 2025-01-31 <<<<<<< HEAD
+x 2025-01-31 =======
+x 2025-01-31 .This Week 2024-10-14
+x 2025-01-31 .This Month 2024-11-14
+x 2025-01-31 .Next Month 2024-12-14
+x 2025-01-31 .Later
+x 2025-01-31 .Unassigned
+x 2025-01-31 update insurance info on Westlake +money @internet due:2024-08-09
+x 2025-01-31 finish keychain warp @as +keychains
+x 2025-01-31 scoop catboxes @home +cleaning due:2024-10-07
+x 2025-01-31 post a blog post for USA @usa +usa-web +usa-blog due:2024-10-07
+x 2025-01-31 write outline for VT04 @usa +vt due:2024-1007
+x 2025-01-31 .Today
+x 2025-01-31 review portfolio site and add website links @wbdv +portfolio
+x 2025-01-31 update linked pages with W3.CSS @wbdv +portfolio
+x 2025-01-31 find out how to restrict viewing of pages @wbdv +cat-lady
+x 2025-01-31 finish right sleeve @as +blue-sweater
+x 2025-01-31 start my corset @as +clothes
+x 2025-01-31 Ep04 Finger Patterns - Part 2 due:2024-10-08 @usa +vt
+x 2025-01-31 Download VT02 and make handout @usa +usa-web +vt
+x 2025-01-31 Add content to membership pages @usa +usa-web
+x 2025-01-31 work on basket #1 @as +baskets
+x 2025-01-31 Eden's yarn skein #2 @as +edens-yarn
+x 2025-01-31 DINNER: (Ma) Stuffed Pasta and salad @home +menu due:2024-10-08
+x 2025-01-31 grocery store for dinner supplies @errands +menu due:2024-10-07
+x 2025-01-31 .Tomorrow
+x 2025-01-31 work on rug for catbox @as +cat-rug
+x 2025-01-31 pay Direct Auto +money @bills due:2024-10-15
+x 2025-01-31 Ep05 Third Position due:2024-10-15 @usa +vt
+x 2025-01-31 finish warp on big loom @as +dennis-lanyards
+x 2025-01-31 DINNER: (Ma) Fish Filets, cheddar/brocolli rice, veg @home +menu due:2024-10-07
+x 2025-01-31 DINNER: (Ash) @home +menu due:2024-10-09
+x 2025-01-31 DINNER: (Ma) M&A Date Night @home +menu due:2024-10-10
+x 2025-01-31 DINNER: (Ash) (Haleigh here) @home +menu due:2024-10-11
+x 2025-01-31 DINNER: (Ash) (Haleigh here) Pizza @home +menu due:2024-10-12
+x 2025-01-31 DINNER: (Ma) Leftovers @home +menu due:2024-10-13
+x 2025-01-31 Bluehost payment @bills +money due:2025-01-04
+x 2025-01-31 Download VT03 and make handout @usa +usa-web +vt
+x 2025-01-31 Upload VT01 video and handout @usa +usa-web +vt
+x 2025-01-31 Make membership pages live @usa +usa-web
