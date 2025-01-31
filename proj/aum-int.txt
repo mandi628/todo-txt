@@ -1,0 +1,1 @@
+(B) setup color scheme on template @wbdv +aum-int

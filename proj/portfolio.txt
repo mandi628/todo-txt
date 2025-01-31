@@ -1,0 +1,2 @@
+(B) review portfolio site and add website links @wbdv +portfolio
+(B) update linked pages with W3.CSS @wbdv +portfolio
