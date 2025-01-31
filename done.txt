@@ -377,9 +377,17 @@ x 2024-10-06 install VSCode on laptop @wbdv +laptop
 x 2024-10-06 install libreoffice on laptop @wbdv +laptop
 x 2024-10-06 defrag laptop @wbdv +laptop
 x 2024-10-07 deal with pine needles @as +baskets
+<<<<<<< HEAD
 x 2025-01-31 finish keychain warp @as +keychains
 x 2025-01-31 pay Direct Auto +money @bills due:2024-10-15
 x 2025-01-31 put away stuff in new cabinet @home +kitchen
 x 2025-01-31 finish rug for catbox @as +cat-rug
 x 2025-01-31 setup SSH key for laptop @wbdv +laptop
 x 2025-01-31 scoop catboxes @home +cleaning due:2024-10-07
+=======
+x 2024-10-07 put away stuff in new cabinet @home +kitchen
+x 2024-10-07 work on basket #1 @as +baskets
+x 2024-10-07 setup SSH key for laptop @wbdv +laptop
+x 2024-10-07 install MuseScore on laptop @wbdv +laptop
+x 2024-10-07 work on rug for catbox @as +cat-rug
+>>>>>>> 96d13e354bb5a53135fd7d4d59c7ec21f61da3e7
