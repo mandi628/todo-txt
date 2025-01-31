@@ -389,6 +389,7 @@ x 2024-10-07 put away stuff in new cabinet @home +kitchen
 x 2024-10-07 work on basket #1 @as +baskets
 x 2024-10-07 setup SSH key for laptop @wbdv +laptop
 x 2024-10-07 install MuseScore on laptop @wbdv +laptop
+<<<<<<< Updated upstream
 x 2024-10-07 work on rug for catbox @as +cat-rug
 >>>>>>> 96d13e354bb5a53135fd7d4d59c7ec21f61da3e7
 x 2025-01-31 >>>>>>> 96d13e354bb5a53135fd7d4d59c7ec21f61da3e7
@@ -432,3 +433,48 @@ x 2025-01-31 Bluehost payment @bills +money due:2025-01-04
 x 2025-01-31 Download VT03 and make handout @usa +usa-web +vt
 x 2025-01-31 Upload VT01 video and handout @usa +usa-web +vt
 x 2025-01-31 Make membership pages live @usa +usa-web
+=======
+x 2024-10-09 DINNER: (Ash) @home +menu due:2024-10-09
+x 2024-10-09 grocery store for dinner supplies @errands +menu due:2024-10-07
+x 2024-10-09 DINNER: (Ma) Stuffed Pasta and salad @home +menu due:2024-10-08
+x 2024-10-09 DINNER: (Ash) (Haleigh here) @home +menu due:2024-10-11
+x 2024-10-09 DINNER: (Ma) M&A Date Night @home +menu due:2024-10-10
+x 2024-10-09 DINNER: (Ma) Leftovers @home +menu due:2024-10-13
+x 2024-10-09 DINNER: (Ash) (Haleigh here) Pizza @home +menu due:2024-10-12
+x 2024-10-09 Bluehost payment @bills +money due:2025-01-04
+x 2024-10-09 DINNER: (Ma) Fish Filets, cheddar/brocolli rice, veg @home +menu due:2024-10-07
+x 2024-10-09 finish keychain warp @as +keychains
+x 2024-10-09 post a blog post for USA @usa +usa-web +usa-blog due:2024-10-07
+x 2024-10-09 scoop catboxes @home +cleaning due:2024-10-07
+x 2024-10-09 update insurance info on Westlake +money @internet due:2024-08-09
+x 2024-10-09 write outline for VT04 @usa +vt due:2024-1007
+x 2024-10-09 work on rug for catbox @as +cat-rug
+x 2024-10-09 .Today
+x 2024-10-09 work on basket #1 @as +baskets
+x 2024-10-09 update linked pages with W3.CSS @wbdv +portfolio
+x 2024-10-09 start my corset @as +clothes
+x 2024-10-09 setup color scheme on template @wbdv +aum-int
+x 2024-10-09 review portfolio site and add website links @wbdv +portfolio
+x 2024-10-09 finish right sleeve @as +blue-sweater
+x 2024-10-09 find out how to restrict viewing of pages @wbdv +cat-lady
+x 2024-10-09 Ep04 Finger Patterns - Part 2 due:2024-10-08 @usa +vt
+x 2024-10-09 Eden's yarn skein #2 @as +edens-yarn
+x 2024-10-09 Download VT02 and make handout @usa +usa-web +vt
+x 2024-10-09 Add content to membership pages @usa +usa-web
+x 2024-10-09 .Tomorrow
+x 2024-10-09 finish warp on big loom @as +dennis-lanyards
+x 2024-10-09 .This Week 2024-10-14
+x 2024-10-09 Ep05 Third Position due:2024-10-15 @usa +vt
+x 2024-10-09 .This Month 2024-11-14
+x 2024-10-09 pay Direct Auto +money @bills due:2024-10-15
+x 2024-10-09 .Next Month 2024-12-14
+x 2024-10-09 .Later
+x 2024-10-09 Upload VT01 video and handout @usa +usa-web +vt
+x 2024-10-09 make wool balls for dogs @as +wool
+x 2024-10-09 Download VT03 and make handout @usa +usa-web +vt
+x 2024-10-09 Make membership pages live @usa +usa-web
+x 2024-10-09 finish sewing together @as +orange-sweater
+x 2024-10-09 make coasters for Suzi @as +coasters
+x 2024-10-09 .Unassigned
+x 2024-10-09 make dryer balls @as +wool
+>>>>>>> Stashed changes
