@@ -1,12 +1,15 @@
 (D) update insruance info on Westlake +money @internet due:2025-02-09
 get new battery for Asus MS laptop
 (A) .Today
-(B) .Tomorrow 2025-02-01
-(C) .This Week 2025-02-07
-(D) .This Month 2025-02-28
-(E) .This Quarter 2025-04-30
+(B) .Tomorrow 2025-02-02
+(C) .This Week 2025-02-08
+(D) .This Month 2025-03-01
+(E) .This Quarter 2025-05-01
 (F) .Later
 (D) Allstate insurance 140.77 due:2025-02-28 @bills
 (D) mail mortgage check due:2025-02-20
-(B) scoop catboxes due:2025-02-01
+(A) scoop catboxes due:2025-02-01
 (C) pay water bill due:2025-02-03
+(B) review projects due:2025-02-02 @weekly
+(D) January transactions @BBM +cfc due:2025-02-10
+(C) Quarter 1/24 transactions @BBM +usa due:2025-02-08
