@@ -480,3 +480,24 @@ x 2024-10-09 make dryer balls @as +wool
 >>>>>>> Stashed changes
 x 2025-01-31 this is a test
 x 2025-01-31 get homeowners insurance due:2025-01-31
+x 2025-02-02 shopping
+x 2025-02-02 wash my dishes
+x 2025-02-02 CGES lesson plan due:2025-02-02 @usa
+x 2025-02-02 make bread
+x 2025-02-02 make coffee
+x 2025-02-02 one load laundry
+x 2025-02-02 PMES lesson plan due:2025-02-02 @usa
+x 2025-02-02 review projects due:2025-02-02 @weekly
+x 2025-02-02 scoop catboxes due:2025-02-01
+x 2025-02-02 set up planner notebook
+x 2025-02-02 high school lesson plan due:2025-02-03 @usa
+x 2025-02-02 pay water bill due:2025-02-03
+x 2025-02-02 WPES lesson plan due:2025-02-03 @usa
+x 2025-02-02 text Dyan Lena Natalie re birthday due:2025-02-03
+x 2025-02-02 update insruance info on Westlake +money @internet due:2025-02-09
+x 2025-02-02 Quarter 1/24 transactions @BBM +usa due:2025-02-08
+x 2025-02-02 review projects due:2025-02-09 @weekly
+x 2025-02-02 get new battery for Asus MS laptop
+x 2025-02-02 Allstate insurance 140.77 due:2025-02-28 @bills
+x 2025-02-02 mail mortgage check due:2025-02-20
+x 2025-02-02 January transactions @BBM +cfc due:2025-02-10
