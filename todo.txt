@@ -10,14 +10,14 @@ get new battery for Asus MS laptop
 (D) mail mortgage check due:2025-02-20
 (A) scoop catboxes due:2025-02-01
 (C) pay water bill due:2025-02-03
-(B) review projects due:2025-02-02 @weekly
+(A) review projects due:2025-02-02 @weekly
 (D) January transactions @BBM +cfc due:2025-02-10
 (C) Quarter 1/24 transactions @BBM +usa due:2025-02-08
 (A) make bread
 (A) wash my dishes
 (A) make coffee
-(B) CGES lesson plan due:2025-02-02 @usa
-(B) PMES lesson plan due:2025-02-02 @usa
+(A) CGES lesson plan due:2025-02-02 @usa
+(A) PMES lesson plan due:2025-02-02 @usa
 (C) WPES lesson plan due:2025-02-03 @usa
 (C) high school lesson plan due:2025-02-03 @usa
 (A) one load laundry
