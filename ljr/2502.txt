@@ -1,1 +1,3 @@
 2025-02-01 ^47.50 Greer Wolcott inv 261 @ar
+2025-02-01 19.52 Ingles @WF +groceries
+^75.00 Christ Reformed @WF +gigs +deposit
