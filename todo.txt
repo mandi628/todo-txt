@@ -1,6 +1,0 @@
-(A) .Today 2025-02-02
-(B) .Tomorrow 2025-02-03
-(C) .This Week 2025-02-09
-(D) .This Month 2025-03-02
-(E) .This Quarter 2025-05-02
-(F) .Later

@@ -501,3 +501,9 @@ x 2025-02-02 get new battery for Asus MS laptop
 x 2025-02-02 Allstate insurance 140.77 due:2025-02-28 @bills
 x 2025-02-02 mail mortgage check due:2025-02-20
 x 2025-02-02 January transactions @BBM +cfc due:2025-02-10
+x 2025-06-29 .Today 2025-02-02
+x 2025-06-29 .Tomorrow 2025-02-03
+x 2025-06-29 .This Week 2025-02-09
+x 2025-06-29 .This Month 2025-03-02
+x 2025-06-29 .This Quarter 2025-05-02
+x 2025-06-29 .Later
