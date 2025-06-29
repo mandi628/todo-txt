@@ -1,5 +1,5 @@
 (A) pay Allstate home due:2025-06-30 @home +bills
-(A) clean studio @home
+(A) clean studio @home +cleaning
 (A) deposit checks @anywhere
 wash East Fresian wool @AS
 wash Hog Island wool @AS
