@@ -1,0 +1,10 @@
+(A) pay Allstate home due:2025-06-30 @home +bills
+(A) clean studio @home
+(A) deposit checks @anywhere
+wash East Fresian wool @AS
+wash Hog Island wool @AS
+spin last black skein for Eden @AS +Eden
+spin 3 white skeins for Eden @AS +Eden
+(B) make Tour de Fleece goals @AS
+pay water bill @home due:2025-07-03 +bills
+pay Verizon bill @home due:2025-06-30 +bills
