@@ -507,3 +507,27 @@ x 2025-06-29 .This Week 2025-02-09
 x 2025-06-29 .This Month 2025-03-02
 x 2025-06-29 .This Quarter 2025-05-02
 x 2025-06-29 .Later
+x 2025-06-30 apples @shopping
+x 2025-06-30 baby carrots @shopping
+x 2025-06-30 avocado 3 @shopping
+x 2025-06-30 bananas @shopping
+x 2025-06-30 cabbage @shopping
+x 2025-06-30 carrots @shopping
+x 2025-06-30 celery @shopping
+x 2025-06-30 cucumber @shopping
+x 2025-06-30 dried fruit for salads @shopping
+x 2025-06-30 eggs 2 dzn @shopping
+x 2025-06-30 nutritional yeast @shopping
+x 2025-06-30 hummus @shopping
+x 2025-06-30 grapes @shopping
+x 2025-06-30 Italian Sweet Cream coffee creamer @shopping
+x 2025-06-30 sponges @shopping
+x 2025-06-30 yogurt @shopping
+x 2025-06-30 spaghetti sauce @shopping
+x 2025-06-30 pasta @shopping
+x 2025-06-30 salad supplies @shopping
+x 2025-06-30 paper plates @shopping
+x 2025-06-30 nuts for salad @shopping
+x 2025-06-30 tuna kits 3 @shopping
+x 2025-06-30 peanut butter - crunchy @shopping
+x 2025-06-30 make tote bag for Ashleigh
