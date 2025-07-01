@@ -533,3 +533,6 @@ x 2025-06-30 peanut butter - crunchy @shopping
 x 2025-06-30 make tote bag for Ashleigh
 x 2025-06-30 make tote bag for Ashleigh
 x 2025-06-30 lettuce @ shopping
+x 2025-06-30 clean studio @home +cleaning
+x 2025-06-30 pay Allstate home due:2025-06-30 @home +bills
+x 2025-06-30 invoice Megan @USA
