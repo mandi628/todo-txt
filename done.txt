@@ -538,3 +538,20 @@ x 2025-06-30 pay Allstate home due:2025-06-30 @home +bills
 x 2025-06-30 invoice Megan @USA
 x 2025-07-02 deposit checks @anywhere
 x 2025-07-02 text Abbie happy birthday due:2025-07-01
+x 2025-07-06 coffee @shopping
+x 2025-07-06 jarlic @shopping
+x 2025-07-06 toilet paper @shopping
+x 2025-07-06 vegetable boullion @shopping
+x 2025-07-06 tatted headband @AS +tatting
+x 2025-07-06 .Do Today 2025-07-02
+x 2025-07-06 .Do Next Week 2025-07-16
+x 2025-07-06 .Do Next 30 Days 2025-08-16
+x 2025-07-06 .Do This Week 2025-07-09
+x 2025-07-06 .Do Tomorrow 2025-07-03
+x 2025-07-06 setup color scheme on template @wbdv +aum-int
+x 2025-07-06 sanitary pads @AS +knitting
+x 2025-07-06 sampler afghan @AS +crochet
+x 2025-07-06 make dryer balls @as +wool
+x 2025-07-06 make wool balls for dogs @as +wool
+x 2025-07-06 finish sewing together @as +orange-sweater
+x 2025-07-06 make coasters for Suzi @as +coasters

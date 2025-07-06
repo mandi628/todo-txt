@@ -5,31 +5,15 @@
 (A) make Tour de Fleece goals @AS +spinning
 (B) pay water bill @home due:2025-07-03 +bills
 (A) pay Verizon bill @home due:2025-06-30 +bills
-(C) tatted headband @AS +tatting
-sanitary pads @AS +knitting
-sampler afghan @AS +crochet
 (C) cut grass @home +yardwork due:2025-07-05
 (C) cut limbs and pull vines @home +yardwork due:2025-07-06
-finish sewing together @as +orange-sweater
-make coasters for Suzi @as +coasters
-make dryer balls @as +wool
-make wool balls for dogs @as +wool
-setup color scheme on template @wbdv +aum-int
 (C) clean studios @home +cleaning due:2025-07-06
-(A) .Do Today 2025-07-02
-(B) .Do Tomorrow 2025-07-03
-(C) .Do This Week 2025-07-09
-(E) .Do Next 30 Days 2025-08-16
 (A) pay Bluehost for MG @MG +bills
 (E) pay Allstate home +bills due:2025-07-31
 (E) pay Allstate car @home +bills due:2025-07-18
 (C) pay car payment @home +bills due:2025-07-09
-(D) .Do Next Week 2025-07-16
 (E) mail mortgage check @home +bills due:2025-07-23
 (A) invoice students @USA due:2025-07-02
-jarlic @shopping
-toilet paper @shopping
-vegetable boullion @shopping
 (A) follow my schedule @home due:2025-07-02
 Amazon Prime @home +bills due:2026-06-30
 (B) follow my schedule @home due:2025-07-03
@@ -41,4 +25,3 @@ Amazon Prime @home +bills due:2026-06-30
 (B) clean bathroom @home +cleaning due:2025-07-03
 (C) pay bills @home +bills due:2025-07-04
 (A) scoop catboxes @home +cleaning
-(A) coffee @shopping
