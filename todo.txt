@@ -41,3 +41,4 @@ Amazon Prime @home +bills due:2026-06-30
 (B) clean bathroom @home +cleaning due:2025-07-03
 (C) pay bills @home +bills due:2025-07-04
 (A) scoop catboxes @home +cleaning
+(A) coffee @shopping
