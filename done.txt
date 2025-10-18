@@ -555,3 +555,5 @@ x 2025-07-06 make dryer balls @as +wool
 x 2025-07-06 make wool balls for dogs @as +wool
 x 2025-07-06 finish sewing together @as +orange-sweater
 x 2025-07-06 make coasters for Suzi @as +coasters
+x 2025-07-06 clean my bedroom @home +cleaning due:2025-07-02
+x 2025-07-06 follow my schedule @home due:2025-07-02
